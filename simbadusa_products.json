@@ -1,0 +1,331 @@
+{
+  "retailer": "simbadusa",
+  "scraped_at": "2026-03-16T16:06:26.784850",
+  "total_products": 36,
+  "products": [
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "3 Fina blommor",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.16498/3-fina-blommor",
+      "price_sek": 1077.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.426904"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Afrikas blå lilja, Headbourne Hybrids",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.16840/afrikas-bla-lilja-headbourne-hybrids",
+      "price_sek": 59.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.427284"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Ageratum, Blue mink",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.18871/ageratum-blue-mink",
+      "price_sek": 39.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.427648"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Ageratum, Tall Blue",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.14821/ageratum-tall-blue",
+      "price_sek": 43.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.428006"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Ageratum, Tall Rose",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.14820/ageratum-tall-rose",
+      "price_sek": 43.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.428368"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, Biedermeier mix",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.18872/akleja-biedermeier-mix",
+      "price_sek": 49.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.428747"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, Koralle",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.16136/akleja-koralle",
+      "price_sek": 29.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.429104"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, Lime sorbet",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.18873/akleja-lime-sorbet",
+      "price_sek": 59.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.429463"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, Lime Sorbet",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.16955/akleja-lime-sorbet",
+      "price_sek": 59.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.429817"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, Mac Kana mix",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.6519/akleja-mac-kana-mix",
+      "price_sek": 8.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.430168"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, McKana Giant mix",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.18874/akleja-mckana-giant-mix",
+      "price_sek": 29.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.430522"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, Pastell-, McKana Giants",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.3132/akleja-pastell-mckana-giants",
+      "price_sek": 26.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.430873"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, Winky Double Red-White",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.3133/akleja-winky-double-red-white",
+      "price_sek": 39.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.431220"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Akleja, Yellow Queen",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.16851/akleja-yellow-queen",
+      "price_sek": 49.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.431577"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Alfalfa",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.3699/alfalfa",
+      "price_sek": 39.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.431927"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Alunrot, Blodalunrot, Firefly",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.19642/alunrot-blodalunrot-firefly",
+      "price_sek": 39.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.432275"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Amarant Garnet Red",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.6516/amarant-garnet-red",
+      "price_sek": 8.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.432623"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Amarant, Velvet Curtains",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.14822/amarant-velvet-curtains",
+      "price_sek": 43.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.432969"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Amarant, Viridis",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.14823/amarant-viridis",
+      "price_sek": 43.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.433320"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Anisisop, Astello Indigo",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.18877/anisisop-astello-indigo",
+      "price_sek": 29.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.433666"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster pastell sommar, Matsumoto",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.6533/aster-pastell-sommar-matsumoto",
+      "price_sek": 23.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.434007"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster pompon sommar",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.6534/aster-pompon-sommar",
+      "price_sek": 8.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.434352"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster Sommar låg, Dvärgdrottning",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.6530/aster-sommar-lag-dvargdrottning",
+      "price_sek": 32.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.434695"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster storblom, King size White",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.6532/aster-storblom-king-size-white",
+      "price_sek": 23.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.435041"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Alpaster, blandade färger",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.14896/aster-alpaster-blandade-farger",
+      "price_sek": 29.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.435387"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, American Branching",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.16499/aster-american-branching",
+      "price_sek": 19.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.435733"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, blandade sorter",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.18880/aster-blandade-sorter",
+      "price_sek": 39.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.436075"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Bolero mix",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.16114/aster-bolero-mix",
+      "price_sek": 19.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.436417"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Busk, Amerikansk",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.3134/aster-busk-amerikansk",
+      "price_sek": 19.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.436763"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Colour carpet mix",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.18881/aster-colour-carpet-mix",
+      "price_sek": 39.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.437104"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Colour Carpet Yellow",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.14926/aster-colour-carpet-yellow",
+      "price_sek": 19.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.437446"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Double mix - Organic",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.9270/aster-double-mix-organic",
+      "price_sek": 29.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.437793"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Dubbel blandning - KRAV",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.11587/aster-dubbel-blandning-krav",
+      "price_sek": 32.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.438134"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Dubbel, bl färger",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.3135/aster-dubbel-bl-farger",
+      "price_sek": 19.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.438487"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Duchess mix",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.18882/aster-duchess-mix",
+      "price_sek": 39.0,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.438829"
+    },
+    {
+      "retailer": "simbadusa",
+      "category_url": "/sv/articles/20/froer",
+      "name": "Aster, Dvärg, bl färger",
+      "product_url": "https://www.simbadusa.se/sv/articles/2.20.3136/aster-dvarg-bl-farger",
+      "price_sek": 19.9,
+      "image_url": "https://cdn37.se/placeholder/325x325.png",
+      "scraped_at": "2026-03-16T16:06:23.439172"
+    }
+  ]
+}

@@ -1,5 +1,4 @@
-import os, time, re, requests
-from playwright.sync_api import sync_playwright
+import os, time, re, requests, json
 from base_scraper import BaseScraper
 
 class WexthusetScraper(BaseScraper):
@@ -7,45 +6,118 @@ class WexthusetScraper(BaseScraper):
     retailer_name = "Wexthuset"
     retailer_url = "https://www.wexthuset.com"
 
-    def run(self):
-        print(f"=== {self.retailer_name} Scraper ===")
-        plants = self.get_all_plants()
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(
-                user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                viewport={"width": 1280, "height": 800}
-            )
-            page = context.new_page()
+    HEADERS = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/javascript, */*",
+        "Accept-Language": "sv-SE,sv;q=0.9",
+        "Referer": "https://www.wexthuset.com/",
+    }
 
-            # Debug: test one search and print structure
-            print("\n--- DEBUG: Testing search for 'lavendel' ---")
-            page.goto("https://www.wexthuset.com/search?q=lavendel", wait_until="networkidle", timeout=30000)
-            page.wait_for_timeout(3000)
-            
-            # Print page title
-            print(f"Page title: {page.title()}")
-            print(f"URL: {page.url}")
-            
-            # Print all links that look like products
-            links = page.query_selector_all("a[href*='/froer'], a[href*='/vaxter'], a[href*='/perenn']")
-            print(f"Product-like links found: {len(links)}")
-            for link in links[:5]:
-                print(f"  - {link.get_attribute('href')} | {link.inner_text()[:50]}")
-            
-            # Print page source snippet
-            content = page.content()
-            print(f"\nPage length: {len(content)} chars")
-            
-            # Look for price patterns
-            prices = re.findall(r'(\d{2,4})\s*kr', content)
-            print(f"Price mentions found: {prices[:10]}")
-            
-            # Look for JSON data
-            json_matches = re.findall(r'"name":"([^"]{3,50})"', content)
-            print(f"JSON name fields: {json_matches[:10]}")
+    def search(self, plant):
+        results = []
+        for query in [plant.get("common_name_sv",""), plant.get("latin_name","")]:
+            if not query: continue
+            found = self._search_api(query)
+            if found:
+                results.extend(found)
+                break
+            time.sleep(1)
+        return results
 
-            browser.close()
+    def _search_api(self, query):
+        # Try Wexthuset's search suggestions API
+        endpoints = [
+            f"https://www.wexthuset.com/api/search?q={requests.utils.quote(query)}&limit=5",
+            f"https://www.wexthuset.com/search/suggest?q={requests.utils.quote(query)}",
+            f"https://www.wexthuset.com/apps/search/predict?q={requests.utils.quote(query)}&resources[type]=product&resources[limit]=5",
+        ]
+        
+        for url in endpoints:
+            try:
+                r = requests.get(url, headers=self.HEADERS, timeout=10)
+                print(f"  API {url[-50:]} → {r.status_code} ({len(r.text)} chars)")
+                if r.status_code == 200 and len(r.text) > 100:
+                    return self._parse_response(r, query)
+            except Exception as e:
+                print(f"  API error: {e}")
+                continue
+        
+        # Fallback: scrape search page with requests
+        return self._scrape_search_page(query)
+
+    def _scrape_search_page(self, query):
+        try:
+            url = f"https://www.wexthuset.com/search?q={requests.utils.quote(query)}&type=product"
+            r = requests.get(url, headers=self.HEADERS, timeout=15)
+            print(f"  Page scrape → {r.status_code} ({len(r.text)} chars)")
+            
+            if r.status_code != 200:
+                return []
+
+            content = r.text
+            
+            # Look for product JSON in page
+            products = []
+            
+            # Try to find product data in script tags
+            json_pattern = re.findall(r'\"price\":\s*(\d+\.?\d*)', content)
+            name_pattern = re.findall(r'\"title\":\s*\"([^\"]{3,80})\"', content)
+            url_pattern = re.findall(r'\"url\":\s*\"(/[^\"]+)\"', content)
+            handle_pattern = re.findall(r'\"handle\":\s*\"([^\"]+)\"', content)
+            
+            print(f"  Found: {len(json_pattern)} prices, {len(name_pattern)} names, {len(handle_pattern)} handles")
+            
+            # Try matching prices with handles
+            for i in range(min(len(json_pattern), len(handle_pattern), 5)):
+                try:
+                    price = float(json_pattern[i]) / 100 if float(json_pattern[i]) > 1000 else float(json_pattern[i])
+                    handle = handle_pattern[i]
+                    name = name_pattern[i] if i < len(name_pattern) else handle
+                    product_url = f"https://www.wexthuset.com/products/{handle}"
+                    
+                    if price > 0 and price < 5000:
+                        products.append({
+                            "name": name,
+                            "price": price,
+                            "url": product_url,
+                            "in_stock": True
+                        })
+                except:
+                    continue
+            
+            return products
+            
+        except Exception as e:
+            print(f"  Scrape error: {e}")
+            return []
+
+    def _parse_response(self, r, query):
+        try:
+            data = r.json()
+            products = []
+            
+            # Handle different API response formats
+            items = data.get("products", data.get("results", data.get("resources", {}).get("results", {}).get("products", [])))
+            
+            for item in items[:5]:
+                price = item.get("price", item.get("variants", [{}])[0].get("price", 0))
+                if isinstance(price, str):
+                    price = self.parse_price(price)
+                elif isinstance(price, int) and price > 10000:
+                    price = price / 100
+                    
+                url = item.get("url", item.get("handle", ""))
+                if url and not url.startswith("http"):
+                    url = f"https://www.wexthuset.com{url}"
+                
+                name = item.get("title", item.get("name", ""))
+                
+                if name and price and url:
+                    products.append({"name": name, "price": float(price), "url": url, "in_stock": True})
+            
+            return products
+        except:
+            return []
 
 if __name__ == "__main__":
     WexthusetScraper().run()

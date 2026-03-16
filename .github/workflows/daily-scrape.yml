@@ -1,0 +1,53 @@
+name: Daily Price Scrape
+
+on:
+  schedule:
+    # Run every day at 05:00 UTC (07:00 CEST)
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    inputs:
+      scrapers:
+        description: 'Scrapers to run (space-separated, or leave empty for all)'
+        required: false
+        default: ''
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrapers
+        run: |
+          if [ -n "${{ github.event.inputs.scrapers }}" ]; then
+            python run_all.py ${{ github.event.inputs.scrapers }}
+          else
+            python run_all.py
+          fi
+
+      - name: Upload scrape results
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-results-${{ github.run_number }}
+          path: output/*.json
+          retention-days: 30
+
+      - name: Commit updated data to repo
+        run: |
+          git config user.name "plantpriset-bot"
+          git config user.email "bot@plantpriset.se"
+          git add output/*.json
+          git diff --staged --quiet || git commit -m "Daily scrape $(date -u +%Y-%m-%d)"
+          git push

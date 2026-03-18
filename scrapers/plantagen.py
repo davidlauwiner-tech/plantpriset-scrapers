@@ -68,7 +68,7 @@ class PlantagenScraper(BaseScraper):
                         cat_lvl1 = lvl1[0]
 
                 alias = h.get("alias", "")
-                product_url = f"{self.base_url}/se{alias}" if alias else ""
+                product_url = f"{self.base_url}/se/p{alias}" if alias else ""
 
                 p = {
                     "retailer": self.retailer_slug,

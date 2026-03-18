@@ -15,6 +15,8 @@ from scrapers.blomsterlandet import BlomsterlandetScraper
 from scrapers.cramers import CramersScraper
 from scrapers.zetas import ZetasScraper
 from scrapers.klostra import KlostraScraper
+from scrapers.plantagen import PlantagenScraper
+from scrapers.granngarden import GranggardenScraper
 
 ALL_SCRAPERS = {
     "impecta": ImpectaScraper,
@@ -22,6 +24,8 @@ ALL_SCRAPERS = {
     "cramers": CramersScraper,
     "zetas": ZetasScraper,
     "klostra": KlostraScraper,
+    "plantagen": PlantagenScraper,
+    "granngarden": GranggardenScraper,
 }
 
 

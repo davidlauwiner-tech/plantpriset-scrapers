@@ -126,7 +126,51 @@ def detect_product_type(listing):
             return "seed"
         if "/tillbehor/" in cat:
             return "tool"
+        if "/lokar" in cat or "/knolar" in cat or "/sattlok" in cat or "/sattpotatis" in cat:
+            return "bulb"
         return "plant"
+    
+    # Plantagen (id=6) - use Meilisearch categories
+    if retailer_id == 6:
+        cat_lower = cat.lower()
+        if "fröer" in cat_lower or "froer" in cat_lower:
+            return "seed"
+        # Name-based for Plantagen
+        tool_words = ["kruka", "jord", "gödsel", "redskap", "sekatör", "slang", "bevattning",
+                       "lampa", "belysning", "drivhus", "pallkrage", "adapter", "koppling",
+                       "regulator", "vägskran", "verktyg", "sax", "spade", "räfsa"]
+        for w in tool_words:
+            if w in name:
+                return "tool"
+        bulb_words = ["dahlia", "tulpan", "lök", "knöl", "sättlök", "sättpotatis", "gladiolus",
+                       "krokus", "hyacint", "narciss", "lilja knöl"]
+        for w in bulb_words:
+            if w in name:
+                return "bulb"
+        return "plant"
+    
+    # Granngården (id=7) - name-based detection (no category URLs)
+    if retailer_id == 7:
+        # Granngården product names often start with "Fröer Nelson Garden..."
+        if name.startswith("fröer ") or name.startswith("frö "):
+            return "seed"
+        tool_words = ["adapter", "koppling", "slang", "bevattning", "kruka", "jord", "gödsel",
+                       "redskap", "sekatör", "sax", "spade", "räfsa", "vägskran", "regulator",
+                       "lampa", "belysning", "drivhus", "pallkrage", "kompost", "verktyg",
+                       "fiberduk", "nät", "presenning", "odlingslåda", "thermacell",
+                       "fågelmatare", "grilltillbehör", "hundleksak", "kattleksak"]
+        for w in tool_words:
+            if w in name:
+                return "tool"
+        bulb_words = ["dahlia", "tulpan", "sättlök", "sättpotatis", "gladiolus", "blomsterlök",
+                       "krokus", "hyacint", "narciss"]
+        for w in bulb_words:
+            if w in name:
+                return "bulb"
+        # Granngården names with "Fröer" in them are seeds
+        if "fröer" in name or "frö" in name:
+            return "seed"
+        return "seed"  # most Granngården garden products are seeds
     
     return "seed"  # safe default
 

@@ -80,15 +80,16 @@ def detect_product_type(listing):
     plant_signals = ["/vaxter/", "/perenner/", "/buskar/", "/trad/", "/krukvaxter/",
                       "/lokar-knolar/", "/utplanteringsvaxter/"]
     
+    # CRITICAL: Check seeds FIRST — /froer/perenner/ is seeds, not plants
+    for s in seed_signals:
+        if s in cat:
+            return "seed"
     for s in tool_signals:
         if s in cat:
             return "tool"
     for s in plant_signals:
         if s in cat:
             return "plant"
-    for s in seed_signals:
-        if s in cat:
-            return "seed"
     
     # Retailer-based defaults
     # Impecta = almost everything is seeds (except tillbehor)

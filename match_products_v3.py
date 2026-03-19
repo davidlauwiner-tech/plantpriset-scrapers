@@ -108,18 +108,42 @@ def detect_product_type(listing):
             return "seed"
         return "tool"
     
-    # Zetas - mixed (seeds, plants, tools, decor)
-    if retailer_id == 4:  # zetas
-        # Use name-based heuristics for Zetas
-        seed_words = ["frö", "fröer", "seed", "odla"]
+    # Zetas (id=4) - mixed retailer: seeds, plants, jewelry, decor, soap
+    if retailer_id == 4:
+        # EXCLUDE non-garden products
+        exclude_words = ["collier", "necklace", "brosch", "earring", "ring silver",
+                          "ring guldpläterad", "bracelet", "ear silver", "smycke",
+                          "doftljus", "handtvål", "handkräm", "handskrubb",
+                          "servett", "duk ", "presentkort", "digitalt presentkort",
+                          "antikljus", "ljusveke", "ljushållare", "ljushänge",
+                          "ljuslykta", "stjärnljus", "toppstjärna", "adventsstjärna",
+                          "adventskalender", "wreath", "bok ", "glasdekoration",
+                          "jubileumsvas", "såg "]
+        for w in exclude_words:
+            if w in name:
+                return "other"
+        # Seeds (Zetas sells own-brand seed packets at 49-69 kr)
+        seed_words = ["frö", "fröer", "luktärt", "ringblomma", "vallmo", "zinnia",
+                       "rosenskära", "solros", "blåklint", "krasse"]
         for w in seed_words:
             if w in name:
                 return "seed"
-        # High price + plant-like name = probably a plant
-        if price > 80:
-            return "plant"
-        return "seed"  # default for Zetas
-    
+        # Tools
+        tool_words = ["kruka", "spade", "växtnäring", "planteringsspade"]
+        for w in tool_words:
+            if w in name:
+                return "tool"
+        # Bulbs
+        bulb_words = ["tulpan", "narciss", "krokus", "allium", "blåstjärna", "vårstjärna",
+                       "hyacint"]
+        for w in bulb_words:
+            if w in name:
+                return "bulb"
+        # Default: Zetas plants are typically 89-300 kr with botanical names
+        if price > 500:
+            return "other"  # expensive non-plant items
+        return "plant"
+
     # Blomsterlandet - check category
     if retailer_id == 2:  # blomsterlandet
         if "/froer/" in cat:
@@ -130,24 +154,35 @@ def detect_product_type(listing):
             return "bulb"
         return "plant"
     
-    # Plantagen (id=6) - use Meilisearch categories
+    # Plantagen (id=6) - use Meilisearch categories (precise mapping)
     if retailer_id == 6:
-        cat_lower = cat.lower()
-        if "fröer" in cat_lower or "froer" in cat_lower:
+        c = cat.lower()
+        # EXCLUDE non-garden products entirely — classify as "other"
+        if any(x in c for x in ["för hemmet", "jul >", "uteplats > utomhusmatlagning",
+                                  "uteplats > utemöbler", "uteplats > uppvärmning",
+                                  "servetter", "presentinslagning", "innebelysning",
+                                  "högtider", "växtmöbler"]):
+            return "other"
+        # Seeds
+        if "fröer" in c or "grönsaker och örter" in c or "sticklingar" in c:
             return "seed"
-        # Name-based for Plantagen
-        tool_words = ["kruka", "jord", "gödsel", "redskap", "sekatör", "slang", "bevattning",
-                       "lampa", "belysning", "drivhus", "pallkrage", "adapter", "koppling",
-                       "regulator", "vägskran", "verktyg", "sax", "spade", "räfsa"]
-        for w in tool_words:
-            if w in name:
-                return "tool"
-        bulb_words = ["dahlia", "tulpan", "lök", "knöl", "sättlök", "sättpotatis", "gladiolus",
-                       "krokus", "hyacint", "narciss", "lilja knöl"]
-        for w in bulb_words:
-            if w in name:
-                return "bulb"
-        return "plant"
+        # Bulbs
+        if "blomsterlök" in c or "potatis, lök" in c:
+            return "bulb"
+        # Tools & accessories
+        if any(x in c for x in ["krukor", "krukfat", "krukvagnar", "trädgårdsskötsel",
+                                  "jord, gödsel", "odlingstillbehör", "växtbelysning",
+                                  "växthus", "planteringsbädd", "kompost",
+                                  "uteplats > trädgårdsdekorationer", "uteplats > fågelmatning",
+                                  "uteplats > trädgårdsdamm", "uteplats > gravdekorationer",
+                                  "uteplats > utebelysning", "uteplats > utomhustillbehör",
+                                  "gör-det-själv"]):
+            return "tool"
+        # Plants
+        if "inomhusväxter" in c or "utomhusväxter" in c:
+            return "plant"
+        # Fallback for unknown Plantagen categories
+        return "other"
     
     # Granngården (id=7) - name-based detection (no category URLs)
     if retailer_id == 7:

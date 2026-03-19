@@ -124,12 +124,20 @@ def detect_product_type(listing):
                 return "other"
         # Seeds (Zetas sells own-brand seed packets at 49-69 kr)
         seed_words = ["frö", "fröer", "luktärt", "ringblomma", "vallmo", "zinnia",
-                       "rosenskära", "solros", "blåklint", "krasse"]
+                       "rosenskära", "solros", "blåklint", "krasse", "aubergine",
+                       "tomat", "paprika", "chili", "gurka", "squash", "pumpa",
+                       "basilika", "dill", "persilja", "koriander", "mangold",
+                       "sallat", "rädisa", "morot", "ärter", "böna", "spenat",
+                       "palmkål", "grönkål", "ruccola", "fänkål", "selleri",
+                       "blomkål", "broccoli", "purjolök", "lök"]
         for w in seed_words:
             if w in name:
                 return "seed"
-        # Tools
-        tool_words = ["kruka", "spade", "växtnäring", "planteringsspade"]
+        # Tools (but NOT "stor kruka" which means plant-in-pot)
+        if "stor kruka" not in name and "i kruka" not in name:
+            tool_words = ["kruka 'gro'", "spade", "växtnäring", "planteringsspade"]
+        else:
+            tool_words = ["spade", "växtnäring", "planteringsspade"]
         for w in tool_words:
             if w in name:
                 return "tool"
@@ -193,7 +201,8 @@ def detect_product_type(listing):
                        "redskap", "sekatör", "sax", "spade", "räfsa", "vägskran", "regulator",
                        "lampa", "belysning", "drivhus", "pallkrage", "kompost", "verktyg",
                        "fiberduk", "nät", "presenning", "odlingslåda", "thermacell",
-                       "fågelmatare", "grilltillbehör", "hundleksak", "kattleksak"]
+                       "fågelmatare", "grilltillbehör", "hundleksak", "kattleksak",
+                       "ampel", "underlägg", "krukfat", "spaljé", "koppel", "halsband"]
         for w in tool_words:
             if w in name:
                 return "tool"

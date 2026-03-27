@@ -51,9 +51,3 @@ jobs:
           git add output/*.json
           git diff --staged --quiet || git commit -m "Daily scrape $(date -u +%Y-%m-%d)"
           git push
-
-      - name: Sync to Supabase
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-        run: python sync_to_supabase.py

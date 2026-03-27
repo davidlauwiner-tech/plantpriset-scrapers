@@ -1,0 +1,388 @@
+[
+  {
+    "slug": "tomater",
+    "name": "Tomater",
+    "parent_category": "seed",
+    "icon": "🍅",
+    "description": "Körsbärstomater, biffstomater, romatomater och specialsorter. Från söta små cocktailtomater till stora köttiga biffar.",
+    "sort_order": 1,
+    "keywords": [
+      "tomat"
+    ]
+  },
+  {
+    "slug": "chili-paprika",
+    "name": "Chili & Paprika",
+    "parent_category": "seed",
+    "icon": "🌶️",
+    "description": "Från milda paprika till extremt starka Carolina Reaper. Alla styrkor och smaker.",
+    "sort_order": 2,
+    "keywords": [
+      "chili",
+      "paprika",
+      "habanero",
+      "jalapeño",
+      "cayenne",
+      "carolina reaper"
+    ]
+  },
+  {
+    "slug": "gurka-melon",
+    "name": "Gurka & Melon",
+    "parent_category": "seed",
+    "icon": "🥒",
+    "description": "Frilands- och växthusgurkor, vattenmeloner och honungsmeloner.",
+    "sort_order": 3,
+    "keywords": [
+      "gurka",
+      "melon",
+      "djungelgurka"
+    ]
+  },
+  {
+    "slug": "sallat-bladgronsaker",
+    "name": "Sallat & Bladgrönsaker",
+    "parent_category": "seed",
+    "icon": "🥬",
+    "description": "Sallat, spenat, mangold, ruccola och andra bladgrönsaker.",
+    "sort_order": 4,
+    "keywords": [
+      "sallat",
+      "spenat",
+      "mangold",
+      "ruccola",
+      "grönkål",
+      "pak choi",
+      "mizuna",
+      "bladgrön"
+    ]
+  },
+  {
+    "slug": "bonor-arter",
+    "name": "Bönor & Ärter",
+    "parent_category": "seed",
+    "icon": "🫘",
+    "description": "Brytbönor, skärbönor, sockerärter, bondböna och mer.",
+    "sort_order": 5,
+    "keywords": [
+      "böna",
+      "ärt",
+      "bondböna",
+      "sojaböna",
+      "borlotti"
+    ]
+  },
+  {
+    "slug": "rotfrukter",
+    "name": "Rotfrukter",
+    "parent_category": "seed",
+    "icon": "🥕",
+    "description": "Morötter, rödbetor, rädisor, palsternacka och rotselleri.",
+    "sort_order": 6,
+    "keywords": [
+      "morot",
+      "rödbeta",
+      "rädisa",
+      "palsternacka",
+      "rotselleri",
+      "majrova",
+      "kålrot"
+    ]
+  },
+  {
+    "slug": "pumpa-squash",
+    "name": "Pumpa & Squash",
+    "parent_category": "seed",
+    "icon": "🎃",
+    "description": "Butternut, zucchini, hokkaido och jättepumpor.",
+    "sort_order": 7,
+    "keywords": [
+      "pumpa",
+      "squash",
+      "zucchini",
+      "butternut",
+      "hokkaido",
+      "kurbits"
+    ]
+  },
+  {
+    "slug": "kal-broccoli",
+    "name": "Kål & Broccoli",
+    "parent_category": "seed",
+    "icon": "🥦",
+    "description": "Broccoli, blomkål, vitkål, palmkål och brysselkål.",
+    "sort_order": 8,
+    "keywords": [
+      "kål",
+      "broccoli",
+      "blomkål",
+      "palmkål",
+      "brysselkål"
+    ]
+  },
+  {
+    "slug": "aubergin",
+    "name": "Aubergin",
+    "parent_category": "seed",
+    "icon": "🍆",
+    "description": "Klassiska mörklila och exotiska sorter som White Beauty och Thai.",
+    "sort_order": 9,
+    "keywords": [
+      "aubergin"
+    ]
+  },
+  {
+    "slug": "lokvaxter",
+    "name": "Lökväxter",
+    "parent_category": "seed",
+    "icon": "🧅",
+    "description": "Gul lök, röd lök, purjolök, gräslök och salladslök.",
+    "sort_order": 10,
+    "keywords": [
+      "lök",
+      "purjolök",
+      "gräslök",
+      "salladslök",
+      "ramslök"
+    ]
+  },
+  {
+    "slug": "majs",
+    "name": "Majs",
+    "parent_category": "seed",
+    "icon": "🌽",
+    "description": "Sockermajs, popcornmajs och prydnadsmajs.",
+    "sort_order": 11,
+    "keywords": [
+      "majs"
+    ]
+  },
+  {
+    "slug": "kryddor",
+    "name": "Kryddor & Örter",
+    "parent_category": "seed",
+    "icon": "🌿",
+    "description": "Basilika, dill, persilja, koriander, timjan och fler aromatiska örter.",
+    "sort_order": 20,
+    "keywords": [
+      "basilika",
+      "dill",
+      "persilja",
+      "koriander",
+      "timjan",
+      "oregano",
+      "rosmarin",
+      "mynta",
+      "salvia",
+      "dragon",
+      "libbsticka",
+      "kummin",
+      "krydd",
+      "fänkål",
+      "körvel"
+    ]
+  },
+  {
+    "slug": "ettariga-blommor",
+    "name": "Ettåriga Blommor",
+    "parent_category": "seed",
+    "icon": "🌸",
+    "description": "Sommarblommor som blommar samma år. Zinnia, kosmos, solros, tagetes och mer.",
+    "sort_order": 30,
+    "keywords": [
+      "zinnia",
+      "kosmos",
+      "rosenskära",
+      "tagetes",
+      "aster ",
+      "dahlia frö",
+      "solros",
+      "riddarsporre",
+      "blåklint",
+      "vallmo",
+      "klockranka",
+      "blomman för dagen",
+      "petunia",
+      "lobelia"
+    ]
+  },
+  {
+    "slug": "luktarter",
+    "name": "Luktärter",
+    "parent_category": "seed",
+    "icon": "💐",
+    "description": "Klassiska doftande klätterväxter i hundratals sorter och färger.",
+    "sort_order": 31,
+    "keywords": [
+      "luktärt"
+    ]
+  },
+  {
+    "slug": "perenner-fro",
+    "name": "Perenner (frö)",
+    "parent_category": "seed",
+    "icon": "🌺",
+    "description": "Fleråriga växter att så från frö. Akleja, prästkrage, solhatt, lavendel och mer.",
+    "sort_order": 32,
+    "keywords": [
+      "perenn",
+      "akleja",
+      "prästkrage",
+      "solhatt",
+      "echinacea",
+      "stockros",
+      "fingerborgs",
+      "riddarsporre",
+      "veronika",
+      "nejlika",
+      "lavendel frö"
+    ]
+  },
+  {
+    "slug": "perenner",
+    "name": "Perenner",
+    "parent_category": "plant",
+    "icon": "🌺",
+    "description": "Färdiga perenner redo att plantera. Återkommer år efter år.",
+    "sort_order": 40,
+    "keywords": [
+      "perenn"
+    ]
+  },
+  {
+    "slug": "buskar-trad",
+    "name": "Buskar & Träd",
+    "parent_category": "plant",
+    "icon": "🌳",
+    "description": "Prydnadsbuskar, häckväxter, fruktträd och barrväxter.",
+    "sort_order": 41,
+    "keywords": [
+      "buske",
+      "häck",
+      "träd",
+      "rhododendron",
+      "hortensia"
+    ]
+  },
+  {
+    "slug": "krukvaxter",
+    "name": "Krukväxter",
+    "parent_category": "plant",
+    "icon": "🪴",
+    "description": "Gröna och blommande inomhusväxter.",
+    "sort_order": 42,
+    "keywords": [
+      "monstera",
+      "fikus",
+      "palm",
+      "aloe",
+      "aglaonema",
+      "calathea",
+      "philodendron",
+      "pothos"
+    ]
+  },
+  {
+    "slug": "dahlia-knolar",
+    "name": "Dahliaknölar",
+    "parent_category": "bulb",
+    "icon": "🌸",
+    "description": "Knölar redo att plantera. Hundratals sorter i alla färger och former.",
+    "sort_order": 50,
+    "keywords": [
+      "dahlia"
+    ]
+  },
+  {
+    "slug": "blomsterlokar",
+    "name": "Blomsterlökar",
+    "parent_category": "bulb",
+    "icon": "🌷",
+    "description": "Tulpaner, narcisser, krokus, hyacinter och andra vårlökar.",
+    "sort_order": 51,
+    "keywords": [
+      "tulpan",
+      "narciss",
+      "krokus",
+      "hyacint",
+      "allium",
+      "blåstjärna",
+      "vårstjärna",
+      "lilja"
+    ]
+  },
+  {
+    "slug": "sattpotatis-lok",
+    "name": "Sättpotatis & Sättlök",
+    "parent_category": "bulb",
+    "icon": "🥔",
+    "description": "Sättpotatis och sättlök för egen odling.",
+    "sort_order": 52,
+    "keywords": [
+      "sättpotatis",
+      "sättlök"
+    ]
+  },
+  {
+    "slug": "redskap",
+    "name": "Redskap",
+    "parent_category": "tool",
+    "icon": "🔧",
+    "description": "Spadar, sekatörer, kratten och andra trädgårdsredskap.",
+    "sort_order": 60,
+    "keywords": [
+      "spade",
+      "sekatör",
+      "räfsa",
+      "hacka",
+      "sax",
+      "såg",
+      "redskap"
+    ]
+  },
+  {
+    "slug": "bevattning",
+    "name": "Bevattning",
+    "parent_category": "tool",
+    "icon": "💧",
+    "description": "Vattenkanor, slangar, bevattningssystem och timers.",
+    "sort_order": 61,
+    "keywords": [
+      "bevattning",
+      "slang",
+      "vattenkanna",
+      "timer",
+      "dropp"
+    ]
+  },
+  {
+    "slug": "krukor-lador",
+    "name": "Krukor & Odlingslådor",
+    "parent_category": "tool",
+    "icon": "🪴",
+    "description": "Krukor, pallkragar, odlingslådor och amplar.",
+    "sort_order": 62,
+    "keywords": [
+      "kruka",
+      "pallkrage",
+      "odlingslåda",
+      "ampel",
+      "krukfat"
+    ]
+  },
+  {
+    "slug": "jord-godsel",
+    "name": "Jord & Gödsel",
+    "parent_category": "tool",
+    "icon": "🌱",
+    "description": "Planteringsjord, kompost, gödsel och växtnäring.",
+    "sort_order": 63,
+    "keywords": [
+      "jord",
+      "gödsel",
+      "näring",
+      "kompost",
+      "biokol"
+    ]
+  }
+]

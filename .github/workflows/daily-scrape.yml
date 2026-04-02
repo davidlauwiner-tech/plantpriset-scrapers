@@ -51,6 +51,7 @@ jobs:
           git add output/*.json
           git diff --staged --quiet || git commit -m "Daily scrape $(date -u +%Y-%m-%d)"
           git pull --rebase || true
+          git pull --rebase || true
           git push
 
       - name: Sync to Supabase

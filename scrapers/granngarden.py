@@ -104,16 +104,27 @@ class GranggardenScraper(BaseScraper):
                 elif any(x in name_lower for x in ["redskap", "sekatör", "sax"]):
                     cat = "tillbehor"
 
+                # Detect multi-packs (e.g. "6-PACK", "15-pack", "3-pack")
+                quantity = 1
+                pack_match = re.search(r'(\d+)\s*-?\s*(?:pack|st|styck)', name, re.IGNORECASE)
+                if pack_match:
+                    quantity = int(pack_match.group(1))
+                # Also check for "jfr pris X kr/st" pattern in price data
+                effective_price = price
+                if quantity > 1 and price:
+                    effective_price = round(price / quantity, 2)
+
                 p = {
                     "retailer": self.retailer_slug,
                     "name": name,
-                    "price_sek": price,
+                    "price_sek": effective_price,
                     "product_url": f"{self.base_url}{href}" if href and not href.startswith("http") else href,
                     "image_url": img,
                     "brand": brand,
                     "article_number": prod_num,
                     "category_url": cat,
                     "in_stock": True,
+                    "quantity": quantity,
                     "scraped_at": datetime.utcnow().isoformat(),
                 }
 

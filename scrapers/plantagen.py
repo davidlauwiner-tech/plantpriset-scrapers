@@ -13,19 +13,28 @@ class PlantagenScraper(BaseScraper):
     retailer_slug = "plantagen"
     base_url = "https://plantagen.se"
 
-    def scrape(self):
-        all_products = []
+    CATEGORIES = [
+        "Odla",
+        "Utomhusväxter",
+        "Inomhusväxter",
+        "Jord, gödsel och bark",
+        "Trädgårdsskötsel",
+    ]
+
+    def fetch_category(self, category):
+        """Fetch all products in a top-level category."""
+        products = []
         offset = 0
         batch_size = 200
 
         while True:
-            print(f"  Fetching offset {offset}...")
             resp = requests.post(f"{MEILI_URL}/multi-search", json={
                 "queries": [{
                     "indexUid": "products_sv-SE",
                     "q": "",
                     "limit": batch_size,
                     "offset": offset,
+                    "filter": [f'categories.lvl0 = "{category}"'],
                     "attributesToRetrieve": [
                         "id", "title", "description", "image_url", "alias",
                         "sku", "discount", "market_price", "categories", "filterable"
@@ -37,7 +46,7 @@ class PlantagenScraper(BaseScraper):
             }, timeout=15)
 
             if resp.status_code != 200:
-                print(f"  HTTP {resp.status_code} — stopping")
+                print(f"    HTTP {resp.status_code} — stopping")
                 break
 
             data = resp.json()
@@ -60,7 +69,6 @@ class PlantagenScraper(BaseScraper):
                     brand = filterable.get("brand", "")
 
                 cats = h.get("categories") or {}
-                cat_str = json.dumps(cats).lower()
                 cat_lvl1 = ""
                 if isinstance(cats, dict):
                     lvl1 = cats.get("lvl1", [])
@@ -84,9 +92,7 @@ class PlantagenScraper(BaseScraper):
                 }
 
                 if p.get("name") and p.get("price_sek"):
-                    all_products.append(p)
-
-            print(f"  Got {len(hits)} products (total: {len(all_products)})")
+                    products.append(p)
 
             if len(hits) < batch_size:
                 break
@@ -94,4 +100,14 @@ class PlantagenScraper(BaseScraper):
             offset += batch_size
             time.sleep(1)
 
+        return products
+
+    def scrape(self):
+        all_products = []
+        for i, cat in enumerate(self.CATEGORIES, 1):
+            print(f"  [{i}/{len(self.CATEGORIES)}] {cat}...")
+            products = self.fetch_category(cat)
+            print(f"    → {len(products)} products")
+            all_products.extend(products)
+            time.sleep(1)
         return all_products

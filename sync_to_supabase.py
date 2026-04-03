@@ -242,10 +242,13 @@ def sync_retailer(retailer_slug, products_data):
             if img:
                 update_data["image_url"] = img
 
-            api_patch(f"listings?id=eq.{existing['id']}", update_data)
-
-            if old_price and old_price != price:
-                stats["price_changed"] += 1
+            # Only call API if price actually changed or image is new
+            if old_price != price or (img and not existing.get("image_url")):
+                api_patch(f"listings?id=eq.{existing['id']}", update_data)
+                if old_price and old_price != price:
+                    stats["price_changed"] += 1
+                else:
+                    stats["updated_img"] += 1
             else:
                 stats["unchanged"] += 1
         else:

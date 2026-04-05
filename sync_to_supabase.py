@@ -77,13 +77,36 @@ def normalize_name(name):
     s = name.lower().strip()
     # Remove quotes and special chars
     s = s.replace("'", "").replace('"', '').replace('’', '').replace('‘', '')
-    # Remove common suffixes retailers add
-    for suffix in [', fröer', ', frö', ' krav', ' eko', ' ekologisk', ' organic',
+    s = s.replace('`', '').replace('´', '')
+    # Remove " - NYHET 2026" and similar year tags
+    s = re.sub(r'\s*-\s*nyhet\s*\d{4}', '', s)
+    # Remove common suffixes retailers add (order matters - longer first)
+    for suffix in [', sommarblomma', ', sommarblommor', ', perenner', ', ettåriga',
+                   ', auberginefröer', ', fröer', ', frö',
+                   ' krav-certifierad örtväxt', ' krav', ' eko', ',logisk', ' ekologisk', ' organic',
                    ' pluggplanta', ' barrotad', ' krukodlad', ' i kruka',
-                   ', perenner', ', ettåriga', ' f1', ' f2']:
+                   ' storportion', ' såband']:
         s = s.replace(suffix, '')
-    # Remove content in parentheses
-    s = re.sub(r'\([^)]*\)', '', s)
+    # Remove content in parentheses (e.g. "(fd Origami)", "(brittiska Amethyst)")
+    s = re.sub(r'\s*\([^)]*\)', '', s)
+    # Remove trailing descriptions after " - " (e.g. " - perfekt för den lilla odlingen")
+    s = re.sub(r'\s*-\s*perfekt.*$', '', s)
+    s = re.sub(r'\s*-\s*[a-zåäö].*$', '', s)
+    # Remove F1/F2 anywhere in the name
+    s = re.sub(r'\bf[12]\b', '', s)
+    # Normalize common spelling variants
+    s = s.replace('aubergine', 'aubergin')
+    # Remove size descriptors
+    for word in ['låg', 'hög', 'liten', 'stor', 'mini', 'dvärg']:
+        s = re.sub(r'\b' + word + r'\b\s*', '', s)
+    # Remove trailing comma
+    s = re.sub(r',\s*$', '', s)
+    # Remove "Bamsefrö" prefix (Blomsterlandet kids range)
+    s = re.sub(r'^bamsefrö\s+', '', s)
+    # Remove Cramers prefix patterns like "Sallat, Plock-, "
+    s = re.sub(r'^(\w+),\s+\w+-,\s*', r'\1 ', s)
+    # Remove trailing ", bl.färger." and similar
+    s = re.sub(r',\s*bl\..*$', '', s)
     # Normalize whitespace
     s = re.sub(r'\s+', ' ', s).strip()
     # Remove trailing size/pack info like "10-pack" or "0.5L"

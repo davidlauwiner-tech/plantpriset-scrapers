@@ -119,12 +119,28 @@ def api_get(path, params=None):
 
 
 def api_patch(path, data):
-    r = requests.patch(f"{SUPABASE_URL}/rest/v1/{path}", headers=HEADERS_MINIMAL, json=data, timeout=15)
+    for attempt in range(3):
+        try:
+            r = requests.patch(f"{SUPABASE_URL}/rest/v1/{path}", headers=HEADERS_MINIMAL, json=data, timeout=15)
+            break
+        except (requests.exceptions.ConnectionError, requests.exceptions.ReadTimeout, requests.exceptions.Timeout):
+            if attempt < 2:
+                time.sleep(2 ** attempt)
+            else:
+                return None
     return r.status_code in (200, 204)
 
 
 def api_post(path, data):
-    r = requests.post(f"{SUPABASE_URL}/rest/v1/{path}", headers=HEADERS, json=data, timeout=15)
+    for attempt in range(3):
+        try:
+            r = requests.post(f"{SUPABASE_URL}/rest/v1/{path}", headers=HEADERS, json=data, timeout=15)
+            break
+        except (requests.exceptions.ConnectionError, requests.exceptions.ReadTimeout, requests.exceptions.Timeout):
+            if attempt < 2:
+                time.sleep(2 ** attempt)
+            else:
+                return None
     if r.status_code in (200, 201):
         return r.json()
     return None
@@ -235,15 +251,14 @@ def sync_retailer(retailer_slug, products_data):
             update_data = {
                 "price_sek": price,
                 "in_stock": sp.get("in_stock", True),
-                "last_scraped": datetime.utcnow().isoformat(),
-            }
+                            }
             # Update image if we have a better one
             img = sp.get("image_url", "")
             if img:
                 update_data["image_url"] = img
 
-            # Only call API if price actually changed or image is new
-            if old_price != price or (img and not existing.get("image_url")):
+            # Only call API if price actually changed
+            if old_price != price:
                 api_patch(f"listings?id=eq.{existing['id']}", update_data)
                 if old_price and old_price != price:
                     stats["price_changed"] += 1
@@ -260,8 +275,7 @@ def sync_retailer(retailer_slug, products_data):
                 "price_sek": price,
                 "image_url": sp.get("image_url", ""),
                 "in_stock": sp.get("in_stock", True),
-                "last_scraped": datetime.utcnow().isoformat(),
-            }
+                            }
             result = api_post("listings", listing_data)
             if result and isinstance(result, list):
                 listing_id = result[0]["id"]

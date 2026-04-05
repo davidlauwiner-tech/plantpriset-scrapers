@@ -121,6 +121,10 @@ def normalize_name(name):
         s = re.sub(r'\b' + season + r'\b\s*', '', s)
     # Normalize common compound words with/without space
     s = s.replace('pro cut', 'procut')
+    # Normalize common spelling variants across retailers
+    s = s.replace('chocolat', 'chocolate')
+    s = re.sub(r'\bchili\b$', '', s)  # trailing "chili" in pepper names
+    s = re.sub(r'\bintred\b', '', s)  # Blomsterlandet variant suffix
     # Remove trailing comma, dash, dots
     s = re.sub(r'[,\.\-\s]+$', '', s)
     # Remove "Bamsefrö" prefix (Blomsterlandet kids range)

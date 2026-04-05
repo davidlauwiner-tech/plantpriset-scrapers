@@ -71,6 +71,26 @@ def slugify(name):
     return s[:120]
 
 
+def normalize_name(name):
+    """Normalize product name for fuzzy matching across retailers."""
+    import re
+    s = name.lower().strip()
+    # Remove quotes and special chars
+    s = s.replace("'", "").replace('"', '').replace('’', '').replace('‘', '')
+    # Remove common suffixes retailers add
+    for suffix in [', fröer', ', frö', ' krav', ' eko', ' ekologisk', ' organic',
+                   ' pluggplanta', ' barrotad', ' krukodlad', ' i kruka',
+                   ', perenner', ', ettåriga', ' f1', ' f2']:
+        s = s.replace(suffix, '')
+    # Remove content in parentheses
+    s = re.sub(r'\([^)]*\)', '', s)
+    # Normalize whitespace
+    s = re.sub(r'\s+', ' ', s).strip()
+    # Remove trailing size/pack info like "10-pack" or "0.5L"
+    s = re.sub(r'\s+\d+[-.]?\d*\s*(pack|st|l|ml|kg|g|cm|mm)$', '', s)
+    return s
+
+
 def guess_product_type(product):
     """Guess product type from tags, category, or name."""
     name = product.get("name", "").lower()
@@ -186,6 +206,12 @@ def load_existing_products():
         offset += 1000
         if len(batch) < 1000:
             break
+    # Also index by normalized name for fuzzy matching
+    for name_key, prod in list(products.items()):
+        norm = normalize_name(prod["name"])
+        if norm not in products:
+            products[norm] = prod
+    return products
     return products
 
 
@@ -197,6 +223,11 @@ def find_or_create_product(scraped, existing_products):
     # Exact match
     if name_lower in existing_products:
         return existing_products[name_lower]["id"]
+
+    # Normalized match (strips quotes, suffixes, etc.)
+    norm = normalize_name(name)
+    if norm in existing_products:
+        return existing_products[norm]["id"]
 
     # Create new product
     slug = slugify(name)

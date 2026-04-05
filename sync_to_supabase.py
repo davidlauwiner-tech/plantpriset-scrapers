@@ -82,11 +82,28 @@ def normalize_name(name):
     s = re.sub(r'\s*-\s*nyhet\s*\d{4}', '', s)
     # Remove common suffixes retailers add (order matters - longer first)
     for suffix in [', sommarblomma', ', sommarblommor', ', perenner', ', ettåriga',
-                   ', auberginefröer', ', fröer', ', frö',
+                   ', auberginefröer', ', bönfröer', ', fröer', ', frö',
                    ' krav-certifierad örtväxt', ' krav', ' eko', ',logisk', ' ekologisk', ' organic',
                    ' pluggplanta', ' barrotad', ' krukodlad', ' i kruka',
-                   ' storportion', ' såband']:
+                   ' storportion', ' såband', ' kulturarv']:
         s = s.replace(suffix, '')
+    # Remove "fröer" with or without comma/space before it
+    s = s.replace(',fröer', '')  # no space variant (Klostra)
+    # Remove compound fröer words
+    for w in ['blomsterfröer', 'bönfröer', 'auberginefröer', 'gronsaksfröer', 'kryddfröer']:
+        s = s.replace(w, '')
+    # Remove "Fröer Nelson Garden" prefix (Granngården)
+    s = re.sub(r'^fröer nelson garden\s+', '', s)
+    # Remove trailing descriptions
+    for desc in ['hydroponisk odling', 'nelson garden']:
+        s = s.replace(desc, '')
+    # Remove standalone "fröer" and "perenner" at end (Klostra style without comma)
+    s = re.sub(r'\s+fröer\b', '', s)
+    s = re.sub(r'\s+perenner\b', '', s)
+    s = re.sub(r'\s+sommarblommor\b', '', s)
+    s = re.sub(r'\s+sommarblomma\b', '', s)
+    # Remove descriptors like "högväxande", "lågväxande"  
+    s = re.sub(r'\b(högväxande|lågväxande|klättrande|krypande)\b', '', s)
     # Remove content in parentheses (e.g. "(fd Origami)", "(brittiska Amethyst)")
     s = re.sub(r'\s*\([^)]*\)', '', s)
     # Remove trailing descriptions after " - " (e.g. " - perfekt för den lilla odlingen")
@@ -99,8 +116,8 @@ def normalize_name(name):
     # Remove size descriptors
     for word in ['låg', 'hög', 'liten', 'stor', 'mini', 'dvärg']:
         s = re.sub(r'\b' + word + r'\b\s*', '', s)
-    # Remove trailing comma
-    s = re.sub(r',\s*$', '', s)
+    # Remove trailing comma, dash, dots
+    s = re.sub(r'[,\.\-\s]+$', '', s)
     # Remove "Bamsefrö" prefix (Blomsterlandet kids range)
     s = re.sub(r'^bamsefrö\s+', '', s)
     # Remove Cramers prefix patterns like "Sallat, Plock-, "

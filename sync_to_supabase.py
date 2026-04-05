@@ -116,6 +116,11 @@ def normalize_name(name):
     # Remove size descriptors
     for word in ['låg', 'hög', 'liten', 'stor', 'mini', 'dvärg']:
         s = re.sub(r'\b' + word + r'\b\s*', '', s)
+    # Remove season descriptors (Cramers uses "Morot Sommar Rondo")
+    for season in ['sommar', 'höst', 'vår', 'vinter']:
+        s = re.sub(r'\b' + season + r'\b\s*', '', s)
+    # Normalize common compound words with/without space
+    s = s.replace('pro cut', 'procut')
     # Remove trailing comma, dash, dots
     s = re.sub(r'[,\.\-\s]+$', '', s)
     # Remove "Bamsefrö" prefix (Blomsterlandet kids range)

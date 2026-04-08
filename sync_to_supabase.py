@@ -147,6 +147,22 @@ def guess_product_type(product):
     ptype = product.get("product_type", "").lower()
     cat_url = product.get("category_url", "").lower()
 
+    # Plantagen-specific: use their category hierarchy (most reliable)
+    if "utomhusväxter" in cat_url:
+        return "plant"
+    if "inomhusväxter" in cat_url and ("gröna växter" in cat_url or "blommande växter" in cat_url):
+        return "plant"
+    if "trädgårdsskötsel" in cat_url or "maskiner" in cat_url:
+        return "tool"
+    if "krukor" in cat_url or "krukfat" in cat_url:
+        return "tool"
+    if "jord, gödsel" in cat_url or "toppdekoration" in cat_url:
+        return "tool"
+    if "odla > odlingstillbehör" in cat_url or "odla > växtbelysning" in cat_url or "odla > växthus" in cat_url or "odla > planteringsbädd" in cat_url:
+        return "tool"
+    if "snittblommor" in cat_url or "blomstergrupper" in cat_url or "gör-det-själv" in cat_url:
+        return "other"
+
     # Check tags first
     if any(t in tags for t in ["fröer", "seeds", "frö"]):
         return "seed"

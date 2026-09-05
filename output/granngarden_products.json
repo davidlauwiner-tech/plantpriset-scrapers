@@ -1,6 +1,6 @@
 {
   "retailer": "granngarden",
-  "scraped_at": "2026-09-04T09:34:07.449618",
+  "scraped_at": "2026-09-05T09:06:45.193721",
   "total_products": 715,
   "products": [
     {
@@ -14,7 +14,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.149576"
+      "scraped_at": "2026-09-05T09:03:51.179391"
     },
     {
       "retailer": "granngarden",
@@ -27,7 +27,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.149721"
+      "scraped_at": "2026-09-05T09:03:51.179540"
     },
     {
       "retailer": "granngarden",
@@ -40,7 +40,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.149843"
+      "scraped_at": "2026-09-05T09:03:51.179661"
     },
     {
       "retailer": "granngarden",
@@ -53,7 +53,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.149953"
+      "scraped_at": "2026-09-05T09:03:51.179772"
     },
     {
       "retailer": "granngarden",
@@ -66,7 +66,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.150063"
+      "scraped_at": "2026-09-05T09:03:51.179880"
     },
     {
       "retailer": "granngarden",
@@ -79,7 +79,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.150170"
+      "scraped_at": "2026-09-05T09:03:51.179986"
     },
     {
       "retailer": "granngarden",
@@ -92,7 +92,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.150297"
+      "scraped_at": "2026-09-05T09:03:51.180184"
     },
     {
       "retailer": "granngarden",
@@ -105,7 +105,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.150419"
+      "scraped_at": "2026-09-05T09:03:51.180304"
     },
     {
       "retailer": "granngarden",
@@ -118,7 +118,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.150527"
+      "scraped_at": "2026-09-05T09:03:51.180437"
     },
     {
       "retailer": "granngarden",
@@ -131,7 +131,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.150634"
+      "scraped_at": "2026-09-05T09:03:51.180545"
     },
     {
       "retailer": "granngarden",
@@ -144,7 +144,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.150838"
+      "scraped_at": "2026-09-05T09:03:51.180662"
     },
     {
       "retailer": "granngarden",
@@ -157,7 +157,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.150956"
+      "scraped_at": "2026-09-05T09:03:51.180778"
     },
     {
       "retailer": "granngarden",
@@ -170,7 +170,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.151061"
+      "scraped_at": "2026-09-05T09:03:51.180884"
     },
     {
       "retailer": "granngarden",
@@ -183,7 +183,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.151167"
+      "scraped_at": "2026-09-05T09:03:51.180988"
     },
     {
       "retailer": "granngarden",
@@ -196,7 +196,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.151289"
+      "scraped_at": "2026-09-05T09:03:51.181091"
     },
     {
       "retailer": "granngarden",
@@ -209,7 +209,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.151406"
+      "scraped_at": "2026-09-05T09:03:51.181214"
     },
     {
       "retailer": "granngarden",
@@ -222,7 +222,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.151510"
+      "scraped_at": "2026-09-05T09:03:51.181318"
     },
     {
       "retailer": "granngarden",
@@ -235,7 +235,20 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.151622"
+      "scraped_at": "2026-09-05T09:03:51.181456"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Frö Nelson Garden Körsbärstomat 'Funnyplums Red' F1",
+      "price_sek": 79.9,
+      "product_url": "https://www.granngarden.se/fro-nelson-garden-korsbarstomat-funnyplums-red-f1",
+      "image_url": "https://v.imgi.no/td8af4grch__w=210_h=0",
+      "brand": "Nelson Garden",
+      "article_number": "2001349",
+      "category_url": "froer",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:03:51.181576"
     },
     {
       "retailer": "granngarden",
@@ -248,20 +261,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.151734"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Frö Nelson Garden Cocktailtomat 'Merrygold' F1 hög",
-      "price_sek": 49.9,
-      "product_url": "https://www.granngarden.se/fro-nelson-garden-cocktailtomat-merrygold-f1-hog",
-      "image_url": "https://v.imgi.no/bz6bvszl3q__w=210_h=0",
-      "brand": "Nelson Garden",
-      "article_number": "2001346",
-      "category_url": "froer",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:21.151837"
+      "scraped_at": "2026-09-05T09:03:51.181694"
     },
     {
       "retailer": "granngarden",
@@ -274,7 +274,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.290372"
+      "scraped_at": "2026-09-05T09:03:54.495055"
     },
     {
       "retailer": "granngarden",
@@ -287,7 +287,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.290505"
+      "scraped_at": "2026-09-05T09:03:54.495191"
     },
     {
       "retailer": "granngarden",
@@ -300,7 +300,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.290736"
+      "scraped_at": "2026-09-05T09:03:54.495441"
     },
     {
       "retailer": "granngarden",
@@ -313,7 +313,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.290846"
+      "scraped_at": "2026-09-05T09:03:54.495547"
     },
     {
       "retailer": "granngarden",
@@ -326,7 +326,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.290948"
+      "scraped_at": "2026-09-05T09:03:54.495649"
     },
     {
       "retailer": "granngarden",
@@ -339,7 +339,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.292179"
+      "scraped_at": "2026-09-05T09:03:54.496756"
     },
     {
       "retailer": "granngarden",
@@ -352,7 +352,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.292310"
+      "scraped_at": "2026-09-05T09:03:54.496871"
     },
     {
       "retailer": "granngarden",
@@ -365,7 +365,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.292418"
+      "scraped_at": "2026-09-05T09:03:54.496978"
     },
     {
       "retailer": "granngarden",
@@ -378,7 +378,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.292516"
+      "scraped_at": "2026-09-05T09:03:54.497078"
     },
     {
       "retailer": "granngarden",
@@ -391,7 +391,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.292613"
+      "scraped_at": "2026-09-05T09:03:54.497176"
     },
     {
       "retailer": "granngarden",
@@ -404,7 +404,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.292716"
+      "scraped_at": "2026-09-05T09:03:54.497283"
     },
     {
       "retailer": "granngarden",
@@ -417,7 +417,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.292819"
+      "scraped_at": "2026-09-05T09:03:54.497408"
     },
     {
       "retailer": "granngarden",
@@ -430,7 +430,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.292924"
+      "scraped_at": "2026-09-05T09:03:54.497515"
     },
     {
       "retailer": "granngarden",
@@ -443,7 +443,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.293029"
+      "scraped_at": "2026-09-05T09:03:54.497620"
     },
     {
       "retailer": "granngarden",
@@ -456,7 +456,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.293132"
+      "scraped_at": "2026-09-05T09:03:54.497724"
     },
     {
       "retailer": "granngarden",
@@ -469,7 +469,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.293237"
+      "scraped_at": "2026-09-05T09:03:54.497831"
     },
     {
       "retailer": "granngarden",
@@ -482,7 +482,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.293362"
+      "scraped_at": "2026-09-05T09:03:54.497936"
     },
     {
       "retailer": "granngarden",
@@ -495,7 +495,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.293473"
+      "scraped_at": "2026-09-05T09:03:54.498045"
     },
     {
       "retailer": "granngarden",
@@ -508,7 +508,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:24.293577"
+      "scraped_at": "2026-09-05T09:03:54.498152"
     },
     {
       "retailer": "granngarden",
@@ -521,7 +521,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.889945"
+      "scraped_at": "2026-09-05T09:03:57.735606"
     },
     {
       "retailer": "granngarden",
@@ -534,7 +534,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.890152"
+      "scraped_at": "2026-09-05T09:03:57.735802"
     },
     {
       "retailer": "granngarden",
@@ -547,7 +547,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.890464"
+      "scraped_at": "2026-09-05T09:03:57.736026"
     },
     {
       "retailer": "granngarden",
@@ -560,7 +560,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.890585"
+      "scraped_at": "2026-09-05T09:03:57.736139"
     },
     {
       "retailer": "granngarden",
@@ -573,7 +573,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.890815"
+      "scraped_at": "2026-09-05T09:03:57.736386"
     },
     {
       "retailer": "granngarden",
@@ -586,7 +586,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.890928"
+      "scraped_at": "2026-09-05T09:03:57.736504"
     },
     {
       "retailer": "granngarden",
@@ -599,7 +599,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891027"
+      "scraped_at": "2026-09-05T09:03:57.736625"
     },
     {
       "retailer": "granngarden",
@@ -612,7 +612,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891125"
+      "scraped_at": "2026-09-05T09:03:57.736729"
     },
     {
       "retailer": "granngarden",
@@ -625,7 +625,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891230"
+      "scraped_at": "2026-09-05T09:03:57.736847"
     },
     {
       "retailer": "granngarden",
@@ -638,7 +638,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891351"
+      "scraped_at": "2026-09-05T09:03:57.736951"
     },
     {
       "retailer": "granngarden",
@@ -651,7 +651,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891461"
+      "scraped_at": "2026-09-05T09:03:57.737066"
     },
     {
       "retailer": "granngarden",
@@ -664,7 +664,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891559"
+      "scraped_at": "2026-09-05T09:03:57.737170"
     },
     {
       "retailer": "granngarden",
@@ -677,7 +677,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891667"
+      "scraped_at": "2026-09-05T09:03:57.737282"
     },
     {
       "retailer": "granngarden",
@@ -690,7 +690,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891767"
+      "scraped_at": "2026-09-05T09:03:57.737405"
     },
     {
       "retailer": "granngarden",
@@ -703,7 +703,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:27.891866"
+      "scraped_at": "2026-09-05T09:03:57.737511"
     },
     {
       "retailer": "granngarden",
@@ -716,7 +716,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:31.578936"
+      "scraped_at": "2026-09-05T09:04:01.244179"
     },
     {
       "retailer": "granngarden",
@@ -729,7 +729,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:31.579035"
+      "scraped_at": "2026-09-05T09:04:01.244287"
     },
     {
       "retailer": "granngarden",
@@ -742,7 +742,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:31.579244"
+      "scraped_at": "2026-09-05T09:04:01.244525"
     },
     {
       "retailer": "granngarden",
@@ -755,7 +755,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:31.579367"
+      "scraped_at": "2026-09-05T09:04:01.244628"
     },
     {
       "retailer": "granngarden",
@@ -768,7 +768,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:31.579468"
+      "scraped_at": "2026-09-05T09:04:01.244731"
     },
     {
       "retailer": "granngarden",
@@ -781,7 +781,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.938659"
+      "scraped_at": "2026-09-05T09:04:05.217726"
     },
     {
       "retailer": "granngarden",
@@ -794,7 +794,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.938806"
+      "scraped_at": "2026-09-05T09:04:05.217852"
     },
     {
       "retailer": "granngarden",
@@ -807,7 +807,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.939055"
+      "scraped_at": "2026-09-05T09:04:05.218076"
     },
     {
       "retailer": "granngarden",
@@ -820,7 +820,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.939160"
+      "scraped_at": "2026-09-05T09:04:05.218180"
     },
     {
       "retailer": "granngarden",
@@ -833,7 +833,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.939280"
+      "scraped_at": "2026-09-05T09:04:05.218284"
     },
     {
       "retailer": "granngarden",
@@ -846,7 +846,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.939400"
+      "scraped_at": "2026-09-05T09:04:05.218425"
     },
     {
       "retailer": "granngarden",
@@ -859,7 +859,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.939502"
+      "scraped_at": "2026-09-05T09:04:05.218532"
     },
     {
       "retailer": "granngarden",
@@ -872,7 +872,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.939609"
+      "scraped_at": "2026-09-05T09:04:05.218640"
     },
     {
       "retailer": "granngarden",
@@ -885,7 +885,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.939729"
+      "scraped_at": "2026-09-05T09:04:05.218759"
     },
     {
       "retailer": "granngarden",
@@ -898,7 +898,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.939833"
+      "scraped_at": "2026-09-05T09:04:05.218863"
     },
     {
       "retailer": "granngarden",
@@ -911,7 +911,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.940040"
+      "scraped_at": "2026-09-05T09:04:05.219067"
     },
     {
       "retailer": "granngarden",
@@ -924,7 +924,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.940154"
+      "scraped_at": "2026-09-05T09:04:05.219178"
     },
     {
       "retailer": "granngarden",
@@ -937,7 +937,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.940255"
+      "scraped_at": "2026-09-05T09:04:05.219279"
     },
     {
       "retailer": "granngarden",
@@ -950,7 +950,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.940386"
+      "scraped_at": "2026-09-05T09:04:05.219409"
     },
     {
       "retailer": "granngarden",
@@ -963,7 +963,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.940489"
+      "scraped_at": "2026-09-05T09:04:05.219515"
     },
     {
       "retailer": "granngarden",
@@ -976,7 +976,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.940596"
+      "scraped_at": "2026-09-05T09:04:05.219619"
     },
     {
       "retailer": "granngarden",
@@ -989,7 +989,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.940708"
+      "scraped_at": "2026-09-05T09:04:05.219731"
     },
     {
       "retailer": "granngarden",
@@ -1002,7 +1002,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:34.940809"
+      "scraped_at": "2026-09-05T09:04:05.219834"
     },
     {
       "retailer": "granngarden",
@@ -1015,7 +1015,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.424913"
+      "scraped_at": "2026-09-05T09:04:08.680226"
     },
     {
       "retailer": "granngarden",
@@ -1028,7 +1028,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.425030"
+      "scraped_at": "2026-09-05T09:04:08.680405"
     },
     {
       "retailer": "granngarden",
@@ -1041,7 +1041,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.425245"
+      "scraped_at": "2026-09-05T09:04:08.680638"
     },
     {
       "retailer": "granngarden",
@@ -1054,7 +1054,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.425374"
+      "scraped_at": "2026-09-05T09:04:08.680739"
     },
     {
       "retailer": "granngarden",
@@ -1067,7 +1067,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.425484"
+      "scraped_at": "2026-09-05T09:04:08.680849"
     },
     {
       "retailer": "granngarden",
@@ -1080,7 +1080,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.425589"
+      "scraped_at": "2026-09-05T09:04:08.680950"
     },
     {
       "retailer": "granngarden",
@@ -1093,7 +1093,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.425702"
+      "scraped_at": "2026-09-05T09:04:08.681059"
     },
     {
       "retailer": "granngarden",
@@ -1106,7 +1106,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.425814"
+      "scraped_at": "2026-09-05T09:04:08.681168"
     },
     {
       "retailer": "granngarden",
@@ -1119,7 +1119,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.425923"
+      "scraped_at": "2026-09-05T09:04:08.681276"
     },
     {
       "retailer": "granngarden",
@@ -1132,7 +1132,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426022"
+      "scraped_at": "2026-09-05T09:04:08.681423"
     },
     {
       "retailer": "granngarden",
@@ -1145,7 +1145,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426132"
+      "scraped_at": "2026-09-05T09:04:08.681543"
     },
     {
       "retailer": "granngarden",
@@ -1158,7 +1158,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426241"
+      "scraped_at": "2026-09-05T09:04:08.681655"
     },
     {
       "retailer": "granngarden",
@@ -1171,7 +1171,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426371"
+      "scraped_at": "2026-09-05T09:04:08.681763"
     },
     {
       "retailer": "granngarden",
@@ -1184,7 +1184,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426476"
+      "scraped_at": "2026-09-05T09:04:08.681869"
     },
     {
       "retailer": "granngarden",
@@ -1197,7 +1197,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426575"
+      "scraped_at": "2026-09-05T09:04:08.681968"
     },
     {
       "retailer": "granngarden",
@@ -1210,7 +1210,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426685"
+      "scraped_at": "2026-09-05T09:04:08.682085"
     },
     {
       "retailer": "granngarden",
@@ -1223,7 +1223,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426786"
+      "scraped_at": "2026-09-05T09:04:08.682187"
     },
     {
       "retailer": "granngarden",
@@ -1236,7 +1236,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.426893"
+      "scraped_at": "2026-09-05T09:04:08.682296"
     },
     {
       "retailer": "granngarden",
@@ -1249,7 +1249,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:38.427001"
+      "scraped_at": "2026-09-05T09:04:08.682443"
     },
     {
       "retailer": "granngarden",
@@ -1262,7 +1262,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.643451"
+      "scraped_at": "2026-09-05T09:04:11.941016"
     },
     {
       "retailer": "granngarden",
@@ -1275,7 +1275,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.643588"
+      "scraped_at": "2026-09-05T09:04:11.941140"
     },
     {
       "retailer": "granngarden",
@@ -1288,7 +1288,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.643800"
+      "scraped_at": "2026-09-05T09:04:11.941387"
     },
     {
       "retailer": "granngarden",
@@ -1301,7 +1301,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.643910"
+      "scraped_at": "2026-09-05T09:04:11.941504"
     },
     {
       "retailer": "granngarden",
@@ -1314,7 +1314,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644029"
+      "scraped_at": "2026-09-05T09:04:11.941616"
     },
     {
       "retailer": "granngarden",
@@ -1327,7 +1327,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644139"
+      "scraped_at": "2026-09-05T09:04:11.941727"
     },
     {
       "retailer": "granngarden",
@@ -1340,7 +1340,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644240"
+      "scraped_at": "2026-09-05T09:04:11.941830"
     },
     {
       "retailer": "granngarden",
@@ -1353,7 +1353,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644365"
+      "scraped_at": "2026-09-05T09:04:11.941934"
     },
     {
       "retailer": "granngarden",
@@ -1366,20 +1366,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644468"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Basilika 'Magic Mountain' 12cm kruka",
-      "price_sek": 69.9,
-      "product_url": "https://www.granngarden.se/basilika-magic-mountain-12cm-kruka",
-      "image_url": "https://v.imgi.no/a3uh7tbelm__w=210_h=0",
-      "brand": "",
-      "article_number": "1263524",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644577"
+      "scraped_at": "2026-09-05T09:04:11.942035"
     },
     {
       "retailer": "granngarden",
@@ -1392,7 +1379,20 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644676"
+      "scraped_at": "2026-09-05T09:04:11.942136"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Basilika 'Magic Mountain' 12cm kruka",
+      "price_sek": 69.9,
+      "product_url": "https://www.granngarden.se/basilika-magic-mountain-12cm-kruka",
+      "image_url": "https://v.imgi.no/a3uh7tbelm__w=210_h=0",
+      "brand": "",
+      "article_number": "1263524",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:04:11.942246"
     },
     {
       "retailer": "granngarden",
@@ -1405,7 +1405,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644788"
+      "scraped_at": "2026-09-05T09:04:11.942374"
     },
     {
       "retailer": "granngarden",
@@ -1418,7 +1418,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:41.644888"
+      "scraped_at": "2026-09-05T09:04:11.942481"
     },
     {
       "retailer": "granngarden",
@@ -1431,72 +1431,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:45.642140"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Frö Nelson Garden Dill 'Como'",
-      "price_sek": 24.9,
-      "product_url": "https://www.granngarden.se/fro-nelson-garden-dill-como",
-      "image_url": "https://v.imgi.no/ycqejxfd3t__w=210_h=0",
-      "brand": "Nelson Garden",
-      "article_number": "1265564",
-      "category_url": "froer",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:45.642298"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Frö Nelson Garden Bladdill 'Gold Crown' Eko",
-      "price_sek": 39.9,
-      "product_url": "https://www.granngarden.se/fro-nelson-garden-bladdill-gold-crown-eko",
-      "image_url": "https://v.imgi.no/dqyjk7pvth__w=210_h=0",
-      "brand": "Nelson Garden",
-      "article_number": "1265567",
-      "category_url": "froer",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:45.642410"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Frö Nelson Garden Dill 'Como' bigpack",
-      "price_sek": 39.9,
-      "product_url": "https://www.granngarden.se/fro-nelson-garden-dill-como-bigpack",
-      "image_url": "https://v.imgi.no/x6anrxrrhx__w=210_h=0",
-      "brand": "Nelson Garden",
-      "article_number": "1265565",
-      "category_url": "froer",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:45.642524"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Frö Nelson Garden Bladdill 'Gold Crown'",
-      "price_sek": 39.9,
-      "product_url": "https://www.granngarden.se/fro-nelson-garden-bladdill-gold-crown",
-      "image_url": "https://v.imgi.no/c548utpakh__w=210_h=0",
-      "brand": "Nelson Garden",
-      "article_number": "1266043",
-      "category_url": "froer",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:45.642629"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Frö Nelson Garden Bladdill 'Bouquet'",
-      "price_sek": 39.9,
-      "product_url": "https://www.granngarden.se/fro-nelson-garden-bladdill-bouquet",
-      "image_url": "https://v.imgi.no/jsrd8b7lgg__w=210_h=0",
-      "brand": "Nelson Garden",
-      "article_number": "1265563",
-      "category_url": "froer",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:45.642740"
+      "scraped_at": "2026-09-05T09:04:15.003779"
     },
     {
       "retailer": "granngarden",
@@ -1509,7 +1444,72 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:45.642851"
+      "scraped_at": "2026-09-05T09:04:15.003910"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Frö Nelson Garden Dill 'Como'",
+      "price_sek": 24.9,
+      "product_url": "https://www.granngarden.se/fro-nelson-garden-dill-como",
+      "image_url": "https://v.imgi.no/ycqejxfd3t__w=210_h=0",
+      "brand": "Nelson Garden",
+      "article_number": "1265564",
+      "category_url": "froer",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:04:15.004142"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Frö Nelson Garden Bladdill 'Bouquet'",
+      "price_sek": 39.9,
+      "product_url": "https://www.granngarden.se/fro-nelson-garden-bladdill-bouquet",
+      "image_url": "https://v.imgi.no/jsrd8b7lgg__w=210_h=0",
+      "brand": "Nelson Garden",
+      "article_number": "1265563",
+      "category_url": "froer",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:04:15.004256"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Frö Nelson Garden Dill 'Como' bigpack",
+      "price_sek": 39.9,
+      "product_url": "https://www.granngarden.se/fro-nelson-garden-dill-como-bigpack",
+      "image_url": "https://v.imgi.no/x6anrxrrhx__w=210_h=0",
+      "brand": "Nelson Garden",
+      "article_number": "1265565",
+      "category_url": "froer",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:04:15.004397"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Frö Nelson Garden Bladdill 'Gold Crown'",
+      "price_sek": 39.9,
+      "product_url": "https://www.granngarden.se/fro-nelson-garden-bladdill-gold-crown",
+      "image_url": "https://v.imgi.no/c548utpakh__w=210_h=0",
+      "brand": "Nelson Garden",
+      "article_number": "1266043",
+      "category_url": "froer",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:04:15.004506"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Frö Nelson Garden Bladdill 'Gold Crown' Eko",
+      "price_sek": 39.9,
+      "product_url": "https://www.granngarden.se/fro-nelson-garden-bladdill-gold-crown-eko",
+      "image_url": "https://v.imgi.no/dqyjk7pvth__w=210_h=0",
+      "brand": "Nelson Garden",
+      "article_number": "1265567",
+      "category_url": "froer",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:04:15.004611"
     },
     {
       "retailer": "granngarden",
@@ -1522,7 +1522,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:45.642963"
+      "scraped_at": "2026-09-05T09:04:15.004723"
     },
     {
       "retailer": "granngarden",
@@ -1535,7 +1535,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.875171"
+      "scraped_at": "2026-09-05T09:04:18.250100"
     },
     {
       "retailer": "granngarden",
@@ -1548,7 +1548,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.875317"
+      "scraped_at": "2026-09-05T09:04:18.250222"
     },
     {
       "retailer": "granngarden",
@@ -1561,7 +1561,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.875546"
+      "scraped_at": "2026-09-05T09:04:18.250496"
     },
     {
       "retailer": "granngarden",
@@ -1574,7 +1574,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.875651"
+      "scraped_at": "2026-09-05T09:04:18.250600"
     },
     {
       "retailer": "granngarden",
@@ -1587,7 +1587,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.875754"
+      "scraped_at": "2026-09-05T09:04:18.250704"
     },
     {
       "retailer": "granngarden",
@@ -1600,7 +1600,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.875865"
+      "scraped_at": "2026-09-05T09:04:18.250812"
     },
     {
       "retailer": "granngarden",
@@ -1613,7 +1613,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.876182"
+      "scraped_at": "2026-09-05T09:04:18.251124"
     },
     {
       "retailer": "granngarden",
@@ -1626,7 +1626,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.876421"
+      "scraped_at": "2026-09-05T09:04:18.251324"
     },
     {
       "retailer": "granngarden",
@@ -1639,7 +1639,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.876524"
+      "scraped_at": "2026-09-05T09:04:18.251448"
     },
     {
       "retailer": "granngarden",
@@ -1652,7 +1652,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.876624"
+      "scraped_at": "2026-09-05T09:04:18.251554"
     },
     {
       "retailer": "granngarden",
@@ -1665,7 +1665,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.876742"
+      "scraped_at": "2026-09-05T09:04:18.251673"
     },
     {
       "retailer": "granngarden",
@@ -1678,7 +1678,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.876844"
+      "scraped_at": "2026-09-05T09:04:18.251774"
     },
     {
       "retailer": "granngarden",
@@ -1691,7 +1691,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.876952"
+      "scraped_at": "2026-09-05T09:04:18.251884"
     },
     {
       "retailer": "granngarden",
@@ -1704,7 +1704,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.877156"
+      "scraped_at": "2026-09-05T09:04:18.252087"
     },
     {
       "retailer": "granngarden",
@@ -1717,7 +1717,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:48.877257"
+      "scraped_at": "2026-09-05T09:04:18.252190"
     },
     {
       "retailer": "granngarden",
@@ -1730,7 +1730,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:52.058080"
+      "scraped_at": "2026-09-05T09:04:21.733070"
     },
     {
       "retailer": "granngarden",
@@ -1743,7 +1743,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:52.058197"
+      "scraped_at": "2026-09-05T09:04:21.733181"
     },
     {
       "retailer": "granngarden",
@@ -1756,7 +1756,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:52.058326"
+      "scraped_at": "2026-09-05T09:04:21.733283"
     },
     {
       "retailer": "granngarden",
@@ -1769,7 +1769,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.708229"
+      "scraped_at": "2026-09-05T09:04:24.981520"
     },
     {
       "retailer": "granngarden",
@@ -1782,7 +1782,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.708396"
+      "scraped_at": "2026-09-05T09:04:24.981639"
     },
     {
       "retailer": "granngarden",
@@ -1795,7 +1795,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.708621"
+      "scraped_at": "2026-09-05T09:04:24.981861"
     },
     {
       "retailer": "granngarden",
@@ -1808,7 +1808,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.708730"
+      "scraped_at": "2026-09-05T09:04:24.981973"
     },
     {
       "retailer": "granngarden",
@@ -1821,7 +1821,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.708829"
+      "scraped_at": "2026-09-05T09:04:24.982076"
     },
     {
       "retailer": "granngarden",
@@ -1834,7 +1834,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.708927"
+      "scraped_at": "2026-09-05T09:04:24.982180"
     },
     {
       "retailer": "granngarden",
@@ -1847,7 +1847,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709034"
+      "scraped_at": "2026-09-05T09:04:24.982294"
     },
     {
       "retailer": "granngarden",
@@ -1860,7 +1860,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709133"
+      "scraped_at": "2026-09-05T09:04:24.982425"
     },
     {
       "retailer": "granngarden",
@@ -1873,7 +1873,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709235"
+      "scraped_at": "2026-09-05T09:04:24.982536"
     },
     {
       "retailer": "granngarden",
@@ -1886,7 +1886,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709363"
+      "scraped_at": "2026-09-05T09:04:24.982641"
     },
     {
       "retailer": "granngarden",
@@ -1899,7 +1899,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709467"
+      "scraped_at": "2026-09-05T09:04:24.982744"
     },
     {
       "retailer": "granngarden",
@@ -1912,7 +1912,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709578"
+      "scraped_at": "2026-09-05T09:04:24.982857"
     },
     {
       "retailer": "granngarden",
@@ -1925,7 +1925,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709679"
+      "scraped_at": "2026-09-05T09:04:24.982960"
     },
     {
       "retailer": "granngarden",
@@ -1938,7 +1938,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709779"
+      "scraped_at": "2026-09-05T09:04:24.983062"
     },
     {
       "retailer": "granngarden",
@@ -1951,7 +1951,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709878"
+      "scraped_at": "2026-09-05T09:04:24.983161"
     },
     {
       "retailer": "granngarden",
@@ -1964,7 +1964,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.709985"
+      "scraped_at": "2026-09-05T09:04:24.983272"
     },
     {
       "retailer": "granngarden",
@@ -1977,7 +1977,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.710086"
+      "scraped_at": "2026-09-05T09:04:24.983394"
     },
     {
       "retailer": "granngarden",
@@ -1990,7 +1990,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.710186"
+      "scraped_at": "2026-09-05T09:04:24.983497"
     },
     {
       "retailer": "granngarden",
@@ -2003,7 +2003,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:55.710306"
+      "scraped_at": "2026-09-05T09:04:24.983599"
     },
     {
       "retailer": "granngarden",
@@ -2016,7 +2016,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.796173"
+      "scraped_at": "2026-09-05T09:04:28.455630"
     },
     {
       "retailer": "granngarden",
@@ -2029,7 +2029,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.796571"
+      "scraped_at": "2026-09-05T09:04:28.455991"
     },
     {
       "retailer": "granngarden",
@@ -2042,7 +2042,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.796678"
+      "scraped_at": "2026-09-05T09:04:28.456097"
     },
     {
       "retailer": "granngarden",
@@ -2055,7 +2055,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.796792"
+      "scraped_at": "2026-09-05T09:04:28.456214"
     },
     {
       "retailer": "granngarden",
@@ -2068,7 +2068,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.796906"
+      "scraped_at": "2026-09-05T09:04:28.456346"
     },
     {
       "retailer": "granngarden",
@@ -2081,7 +2081,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.797125"
+      "scraped_at": "2026-09-05T09:04:28.456582"
     },
     {
       "retailer": "granngarden",
@@ -2094,7 +2094,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.797350"
+      "scraped_at": "2026-09-05T09:04:28.456791"
     },
     {
       "retailer": "granngarden",
@@ -2107,7 +2107,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.797461"
+      "scraped_at": "2026-09-05T09:04:28.456904"
     },
     {
       "retailer": "granngarden",
@@ -2120,7 +2120,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.797577"
+      "scraped_at": "2026-09-05T09:04:28.457021"
     },
     {
       "retailer": "granngarden",
@@ -2133,7 +2133,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.797689"
+      "scraped_at": "2026-09-05T09:04:28.457131"
     },
     {
       "retailer": "granngarden",
@@ -2146,7 +2146,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.797799"
+      "scraped_at": "2026-09-05T09:04:28.457240"
     },
     {
       "retailer": "granngarden",
@@ -2159,7 +2159,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.797915"
+      "scraped_at": "2026-09-05T09:04:28.457387"
     },
     {
       "retailer": "granngarden",
@@ -2172,7 +2172,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.798024"
+      "scraped_at": "2026-09-05T09:04:28.457516"
     },
     {
       "retailer": "granngarden",
@@ -2185,7 +2185,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.798133"
+      "scraped_at": "2026-09-05T09:04:28.457627"
     },
     {
       "retailer": "granngarden",
@@ -2198,7 +2198,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.798237"
+      "scraped_at": "2026-09-05T09:04:28.457729"
     },
     {
       "retailer": "granngarden",
@@ -2211,7 +2211,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:31:58.798368"
+      "scraped_at": "2026-09-05T09:04:28.457838"
     },
     {
       "retailer": "granngarden",
@@ -2224,7 +2224,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.932392"
+      "scraped_at": "2026-09-05T09:04:31.580659"
     },
     {
       "retailer": "granngarden",
@@ -2237,7 +2237,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.932543"
+      "scraped_at": "2026-09-05T09:04:31.580798"
     },
     {
       "retailer": "granngarden",
@@ -2250,7 +2250,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.932774"
+      "scraped_at": "2026-09-05T09:04:31.581027"
     },
     {
       "retailer": "granngarden",
@@ -2263,7 +2263,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.932888"
+      "scraped_at": "2026-09-05T09:04:31.581138"
     },
     {
       "retailer": "granngarden",
@@ -2276,7 +2276,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.932993"
+      "scraped_at": "2026-09-05T09:04:31.581242"
     },
     {
       "retailer": "granngarden",
@@ -2289,7 +2289,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933100"
+      "scraped_at": "2026-09-05T09:04:31.581367"
     },
     {
       "retailer": "granngarden",
@@ -2302,7 +2302,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933213"
+      "scraped_at": "2026-09-05T09:04:31.581487"
     },
     {
       "retailer": "granngarden",
@@ -2315,7 +2315,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933340"
+      "scraped_at": "2026-09-05T09:04:31.581589"
     },
     {
       "retailer": "granngarden",
@@ -2328,7 +2328,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933459"
+      "scraped_at": "2026-09-05T09:04:31.581706"
     },
     {
       "retailer": "granngarden",
@@ -2341,7 +2341,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933565"
+      "scraped_at": "2026-09-05T09:04:31.581812"
     },
     {
       "retailer": "granngarden",
@@ -2354,7 +2354,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933666"
+      "scraped_at": "2026-09-05T09:04:31.581915"
     },
     {
       "retailer": "granngarden",
@@ -2367,7 +2367,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933778"
+      "scraped_at": "2026-09-05T09:04:31.582028"
     },
     {
       "retailer": "granngarden",
@@ -2380,7 +2380,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933882"
+      "scraped_at": "2026-09-05T09:04:31.582129"
     },
     {
       "retailer": "granngarden",
@@ -2393,7 +2393,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:01.933984"
+      "scraped_at": "2026-09-05T09:04:31.582231"
     },
     {
       "retailer": "granngarden",
@@ -2406,7 +2406,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.297028"
+      "scraped_at": "2026-09-05T09:04:34.885041"
     },
     {
       "retailer": "granngarden",
@@ -2419,7 +2419,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.297405"
+      "scraped_at": "2026-09-05T09:04:34.885416"
     },
     {
       "retailer": "granngarden",
@@ -2432,7 +2432,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.297516"
+      "scraped_at": "2026-09-05T09:04:34.885533"
     },
     {
       "retailer": "granngarden",
@@ -2445,7 +2445,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.297616"
+      "scraped_at": "2026-09-05T09:04:34.885638"
     },
     {
       "retailer": "granngarden",
@@ -2458,7 +2458,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.297723"
+      "scraped_at": "2026-09-05T09:04:34.885748"
     },
     {
       "retailer": "granngarden",
@@ -2471,7 +2471,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.297826"
+      "scraped_at": "2026-09-05T09:04:34.885851"
     },
     {
       "retailer": "granngarden",
@@ -2484,7 +2484,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.298026"
+      "scraped_at": "2026-09-05T09:04:34.886054"
     },
     {
       "retailer": "granngarden",
@@ -2497,7 +2497,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.298139"
+      "scraped_at": "2026-09-05T09:04:34.886166"
     },
     {
       "retailer": "granngarden",
@@ -2510,7 +2510,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.298413"
+      "scraped_at": "2026-09-05T09:04:34.886403"
     },
     {
       "retailer": "granngarden",
@@ -2523,7 +2523,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.298535"
+      "scraped_at": "2026-09-05T09:04:34.886523"
     },
     {
       "retailer": "granngarden",
@@ -2536,7 +2536,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.298636"
+      "scraped_at": "2026-09-05T09:04:34.886624"
     },
     {
       "retailer": "granngarden",
@@ -2549,7 +2549,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.298748"
+      "scraped_at": "2026-09-05T09:04:34.886730"
     },
     {
       "retailer": "granngarden",
@@ -2562,7 +2562,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.298847"
+      "scraped_at": "2026-09-05T09:04:34.886830"
     },
     {
       "retailer": "granngarden",
@@ -2575,7 +2575,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.298946"
+      "scraped_at": "2026-09-05T09:04:34.886929"
     },
     {
       "retailer": "granngarden",
@@ -2588,7 +2588,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.299046"
+      "scraped_at": "2026-09-05T09:04:34.887029"
     },
     {
       "retailer": "granngarden",
@@ -2601,7 +2601,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:05.299145"
+      "scraped_at": "2026-09-05T09:04:34.887128"
     },
     {
       "retailer": "granngarden",
@@ -2614,7 +2614,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:08.543338"
+      "scraped_at": "2026-09-05T09:04:37.983576"
     },
     {
       "retailer": "granngarden",
@@ -2627,7 +2627,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:08.543444"
+      "scraped_at": "2026-09-05T09:04:37.983683"
     },
     {
       "retailer": "granngarden",
@@ -2640,7 +2640,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:08.543548"
+      "scraped_at": "2026-09-05T09:04:37.983787"
     },
     {
       "retailer": "granngarden",
@@ -2653,7 +2653,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:08.543650"
+      "scraped_at": "2026-09-05T09:04:37.983898"
     },
     {
       "retailer": "granngarden",
@@ -2666,7 +2666,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:08.543761"
+      "scraped_at": "2026-09-05T09:04:37.984008"
     },
     {
       "retailer": "granngarden",
@@ -2679,7 +2679,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.348986"
+      "scraped_at": "2026-09-05T09:04:41.751074"
     },
     {
       "retailer": "granngarden",
@@ -2692,7 +2692,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.349128"
+      "scraped_at": "2026-09-05T09:04:41.751200"
     },
     {
       "retailer": "granngarden",
@@ -2705,7 +2705,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.349388"
+      "scraped_at": "2026-09-05T09:04:41.751455"
     },
     {
       "retailer": "granngarden",
@@ -2718,7 +2718,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.349503"
+      "scraped_at": "2026-09-05T09:04:41.751568"
     },
     {
       "retailer": "granngarden",
@@ -2731,7 +2731,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.349618"
+      "scraped_at": "2026-09-05T09:04:41.751680"
     },
     {
       "retailer": "granngarden",
@@ -2744,7 +2744,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.349725"
+      "scraped_at": "2026-09-05T09:04:41.751784"
     },
     {
       "retailer": "granngarden",
@@ -2757,7 +2757,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.349839"
+      "scraped_at": "2026-09-05T09:04:41.751898"
     },
     {
       "retailer": "granngarden",
@@ -2770,7 +2770,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.349942"
+      "scraped_at": "2026-09-05T09:04:41.752000"
     },
     {
       "retailer": "granngarden",
@@ -2783,7 +2783,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350045"
+      "scraped_at": "2026-09-05T09:04:41.752102"
     },
     {
       "retailer": "granngarden",
@@ -2796,7 +2796,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350148"
+      "scraped_at": "2026-09-05T09:04:41.752204"
     },
     {
       "retailer": "granngarden",
@@ -2809,7 +2809,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350250"
+      "scraped_at": "2026-09-05T09:04:41.752306"
     },
     {
       "retailer": "granngarden",
@@ -2822,7 +2822,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350375"
+      "scraped_at": "2026-09-05T09:04:41.752429"
     },
     {
       "retailer": "granngarden",
@@ -2835,7 +2835,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350479"
+      "scraped_at": "2026-09-05T09:04:41.752533"
     },
     {
       "retailer": "granngarden",
@@ -2848,7 +2848,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350584"
+      "scraped_at": "2026-09-05T09:04:41.752638"
     },
     {
       "retailer": "granngarden",
@@ -2861,7 +2861,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350687"
+      "scraped_at": "2026-09-05T09:04:41.752739"
     },
     {
       "retailer": "granngarden",
@@ -2874,7 +2874,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350796"
+      "scraped_at": "2026-09-05T09:04:41.752847"
     },
     {
       "retailer": "granngarden",
@@ -2887,7 +2887,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.350900"
+      "scraped_at": "2026-09-05T09:04:41.752951"
     },
     {
       "retailer": "granngarden",
@@ -2900,7 +2900,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.351002"
+      "scraped_at": "2026-09-05T09:04:41.753053"
     },
     {
       "retailer": "granngarden",
@@ -2913,7 +2913,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:12.351104"
+      "scraped_at": "2026-09-05T09:04:41.753222"
     },
     {
       "retailer": "granngarden",
@@ -2926,7 +2926,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.376409"
+      "scraped_at": "2026-09-05T09:04:45.530245"
     },
     {
       "retailer": "granngarden",
@@ -2939,7 +2939,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.376553"
+      "scraped_at": "2026-09-05T09:04:45.530395"
     },
     {
       "retailer": "granngarden",
@@ -2952,7 +2952,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.376809"
+      "scraped_at": "2026-09-05T09:04:45.530620"
     },
     {
       "retailer": "granngarden",
@@ -2965,7 +2965,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.376922"
+      "scraped_at": "2026-09-05T09:04:45.530725"
     },
     {
       "retailer": "granngarden",
@@ -2978,7 +2978,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.377036"
+      "scraped_at": "2026-09-05T09:04:45.530839"
     },
     {
       "retailer": "granngarden",
@@ -2991,7 +2991,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.377139"
+      "scraped_at": "2026-09-05T09:04:45.530946"
     },
     {
       "retailer": "granngarden",
@@ -3004,7 +3004,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.377250"
+      "scraped_at": "2026-09-05T09:04:45.531059"
     },
     {
       "retailer": "granngarden",
@@ -3017,7 +3017,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.377398"
+      "scraped_at": "2026-09-05T09:04:45.531170"
     },
     {
       "retailer": "granngarden",
@@ -3030,7 +3030,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.377511"
+      "scraped_at": "2026-09-05T09:04:45.531282"
     },
     {
       "retailer": "granngarden",
@@ -3043,7 +3043,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.377623"
+      "scraped_at": "2026-09-05T09:04:45.531442"
     },
     {
       "retailer": "granngarden",
@@ -3056,7 +3056,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.377727"
+      "scraped_at": "2026-09-05T09:04:45.531552"
     },
     {
       "retailer": "granngarden",
@@ -3069,7 +3069,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:15.377826"
+      "scraped_at": "2026-09-05T09:04:45.531656"
     },
     {
       "retailer": "granngarden",
@@ -3082,7 +3082,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.456634"
+      "scraped_at": "2026-09-05T09:04:48.721002"
     },
     {
       "retailer": "granngarden",
@@ -3095,7 +3095,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.456755"
+      "scraped_at": "2026-09-05T09:04:48.721126"
     },
     {
       "retailer": "granngarden",
@@ -3108,7 +3108,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.456974"
+      "scraped_at": "2026-09-05T09:04:48.721361"
     },
     {
       "retailer": "granngarden",
@@ -3121,7 +3121,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.457072"
+      "scraped_at": "2026-09-05T09:04:48.721469"
     },
     {
       "retailer": "granngarden",
@@ -3134,7 +3134,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.457182"
+      "scraped_at": "2026-09-05T09:04:48.721582"
     },
     {
       "retailer": "granngarden",
@@ -3147,7 +3147,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.457309"
+      "scraped_at": "2026-09-05T09:04:48.721696"
     },
     {
       "retailer": "granngarden",
@@ -3160,7 +3160,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.457416"
+      "scraped_at": "2026-09-05T09:04:48.721805"
     },
     {
       "retailer": "granngarden",
@@ -3173,7 +3173,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.457515"
+      "scraped_at": "2026-09-05T09:04:48.721909"
     },
     {
       "retailer": "granngarden",
@@ -3186,7 +3186,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.457729"
+      "scraped_at": "2026-09-05T09:04:48.722130"
     },
     {
       "retailer": "granngarden",
@@ -3199,7 +3199,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.457825"
+      "scraped_at": "2026-09-05T09:04:48.722233"
     },
     {
       "retailer": "granngarden",
@@ -3212,7 +3212,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:18.457931"
+      "scraped_at": "2026-09-05T09:04:48.723363"
     },
     {
       "retailer": "granngarden",
@@ -3225,7 +3225,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.618414"
+      "scraped_at": "2026-09-05T09:04:51.943966"
     },
     {
       "retailer": "granngarden",
@@ -3238,7 +3238,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.618535"
+      "scraped_at": "2026-09-05T09:04:51.944096"
     },
     {
       "retailer": "granngarden",
@@ -3251,7 +3251,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.618761"
+      "scraped_at": "2026-09-05T09:04:51.944319"
     },
     {
       "retailer": "granngarden",
@@ -3264,7 +3264,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.618982"
+      "scraped_at": "2026-09-05T09:04:51.944569"
     },
     {
       "retailer": "granngarden",
@@ -3277,7 +3277,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619098"
+      "scraped_at": "2026-09-05T09:04:51.944679"
     },
     {
       "retailer": "granngarden",
@@ -3290,7 +3290,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619203"
+      "scraped_at": "2026-09-05T09:04:51.944783"
     },
     {
       "retailer": "granngarden",
@@ -3303,7 +3303,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619340"
+      "scraped_at": "2026-09-05T09:04:51.944894"
     },
     {
       "retailer": "granngarden",
@@ -3316,7 +3316,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619458"
+      "scraped_at": "2026-09-05T09:04:51.945083"
     },
     {
       "retailer": "granngarden",
@@ -3329,7 +3329,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619561"
+      "scraped_at": "2026-09-05T09:04:51.945190"
     },
     {
       "retailer": "granngarden",
@@ -3342,7 +3342,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619662"
+      "scraped_at": "2026-09-05T09:04:51.945292"
     },
     {
       "retailer": "granngarden",
@@ -3355,7 +3355,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619766"
+      "scraped_at": "2026-09-05T09:04:51.945416"
     },
     {
       "retailer": "granngarden",
@@ -3368,7 +3368,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619869"
+      "scraped_at": "2026-09-05T09:04:51.945521"
     },
     {
       "retailer": "granngarden",
@@ -3381,7 +3381,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.619973"
+      "scraped_at": "2026-09-05T09:04:51.945624"
     },
     {
       "retailer": "granngarden",
@@ -3394,7 +3394,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.620075"
+      "scraped_at": "2026-09-05T09:04:51.945727"
     },
     {
       "retailer": "granngarden",
@@ -3407,7 +3407,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.620185"
+      "scraped_at": "2026-09-05T09:04:51.945841"
     },
     {
       "retailer": "granngarden",
@@ -3420,7 +3420,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:21.620310"
+      "scraped_at": "2026-09-05T09:04:51.945944"
     },
     {
       "retailer": "granngarden",
@@ -3433,7 +3433,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:24.966529"
+      "scraped_at": "2026-09-05T09:04:55.234996"
     },
     {
       "retailer": "granngarden",
@@ -3446,7 +3446,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:24.967093"
+      "scraped_at": "2026-09-05T09:04:55.235541"
     },
     {
       "retailer": "granngarden",
@@ -3459,7 +3459,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:24.967209"
+      "scraped_at": "2026-09-05T09:04:55.235651"
     },
     {
       "retailer": "granngarden",
@@ -3472,20 +3472,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:24.967573"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Fågelmat Granngården Vildfågelmix 25kg",
-      "price_sek": 499.0,
-      "product_url": "https://www.granngarden.se/fagelmat-granngarden-vildfagelmix-25kg",
-      "image_url": "https://v.imgi.no/74r55z4rjy__w=210_h=0",
-      "brand": "",
-      "article_number": "1184612",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:24.968019"
+      "scraped_at": "2026-09-05T09:04:55.235980"
     },
     {
       "retailer": "granngarden",
@@ -3498,7 +3485,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:24.968233"
+      "scraped_at": "2026-09-05T09:04:55.236547"
     },
     {
       "retailer": "granngarden",
@@ -3511,7 +3498,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:24.968673"
+      "scraped_at": "2026-09-05T09:04:55.236961"
     },
     {
       "retailer": "granngarden",
@@ -3524,7 +3511,20 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:24.968781"
+      "scraped_at": "2026-09-05T09:04:55.237071"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Fågelmat Granngården Vildfågelmix 25kg",
+      "price_sek": 499.0,
+      "product_url": "https://www.granngarden.se/fagelmat-granngarden-vildfagelmix-25kg",
+      "image_url": "https://v.imgi.no/74r55z4rjy__w=210_h=0",
+      "brand": "",
+      "article_number": "1184612",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:04:55.237185"
     },
     {
       "retailer": "granngarden",
@@ -3537,7 +3537,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.400431"
+      "scraped_at": "2026-09-05T09:04:58.876510"
     },
     {
       "retailer": "granngarden",
@@ -3550,7 +3550,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.400562"
+      "scraped_at": "2026-09-05T09:04:58.876639"
     },
     {
       "retailer": "granngarden",
@@ -3563,7 +3563,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.400854"
+      "scraped_at": "2026-09-05T09:04:58.876857"
     },
     {
       "retailer": "granngarden",
@@ -3576,7 +3576,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.400958"
+      "scraped_at": "2026-09-05T09:04:58.876962"
     },
     {
       "retailer": "granngarden",
@@ -3589,7 +3589,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.401065"
+      "scraped_at": "2026-09-05T09:04:58.877064"
     },
     {
       "retailer": "granngarden",
@@ -3602,7 +3602,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.401170"
+      "scraped_at": "2026-09-05T09:04:58.877166"
     },
     {
       "retailer": "granngarden",
@@ -3615,7 +3615,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.401292"
+      "scraped_at": "2026-09-05T09:04:58.877271"
     },
     {
       "retailer": "granngarden",
@@ -3628,7 +3628,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.401514"
+      "scraped_at": "2026-09-05T09:04:58.877514"
     },
     {
       "retailer": "granngarden",
@@ -3641,7 +3641,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.401822"
+      "scraped_at": "2026-09-05T09:04:58.877826"
     },
     {
       "retailer": "granngarden",
@@ -3654,7 +3654,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.401929"
+      "scraped_at": "2026-09-05T09:04:58.877933"
     },
     {
       "retailer": "granngarden",
@@ -3667,7 +3667,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.402030"
+      "scraped_at": "2026-09-05T09:04:58.878032"
     },
     {
       "retailer": "granngarden",
@@ -3680,7 +3680,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.402130"
+      "scraped_at": "2026-09-05T09:04:58.878131"
     },
     {
       "retailer": "granngarden",
@@ -3693,7 +3693,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:28.402229"
+      "scraped_at": "2026-09-05T09:04:58.878231"
     },
     {
       "retailer": "granngarden",
@@ -3706,7 +3706,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.459927"
+      "scraped_at": "2026-09-05T09:05:02.124032"
     },
     {
       "retailer": "granngarden",
@@ -3719,7 +3719,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.460086"
+      "scraped_at": "2026-09-05T09:05:02.124173"
     },
     {
       "retailer": "granngarden",
@@ -3732,7 +3732,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.460422"
+      "scraped_at": "2026-09-05T09:05:02.124420"
     },
     {
       "retailer": "granngarden",
@@ -3745,7 +3745,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.460775"
+      "scraped_at": "2026-09-05T09:05:02.124740"
     },
     {
       "retailer": "granngarden",
@@ -3758,7 +3758,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.460884"
+      "scraped_at": "2026-09-05T09:05:02.124852"
     },
     {
       "retailer": "granngarden",
@@ -3771,7 +3771,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.460987"
+      "scraped_at": "2026-09-05T09:05:02.124955"
     },
     {
       "retailer": "granngarden",
@@ -3784,7 +3784,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.461093"
+      "scraped_at": "2026-09-05T09:05:02.125059"
     },
     {
       "retailer": "granngarden",
@@ -3797,7 +3797,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.461204"
+      "scraped_at": "2026-09-05T09:05:02.125169"
     },
     {
       "retailer": "granngarden",
@@ -3810,7 +3810,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:31.461327"
+      "scraped_at": "2026-09-05T09:05:02.125270"
     },
     {
       "retailer": "granngarden",
@@ -3823,7 +3823,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.446709"
+      "scraped_at": "2026-09-05T09:05:05.446436"
     },
     {
       "retailer": "granngarden",
@@ -3836,7 +3836,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.446828"
+      "scraped_at": "2026-09-05T09:05:05.446565"
     },
     {
       "retailer": "granngarden",
@@ -3849,7 +3849,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.447056"
+      "scraped_at": "2026-09-05T09:05:05.446799"
     },
     {
       "retailer": "granngarden",
@@ -3862,7 +3862,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.447288"
+      "scraped_at": "2026-09-05T09:05:05.447021"
     },
     {
       "retailer": "granngarden",
@@ -3875,7 +3875,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.447399"
+      "scraped_at": "2026-09-05T09:05:05.447126"
     },
     {
       "retailer": "granngarden",
@@ -3888,7 +3888,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.447503"
+      "scraped_at": "2026-09-05T09:05:05.447227"
     },
     {
       "retailer": "granngarden",
@@ -3901,7 +3901,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.447613"
+      "scraped_at": "2026-09-05T09:05:05.447361"
     },
     {
       "retailer": "granngarden",
@@ -3914,7 +3914,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.447724"
+      "scraped_at": "2026-09-05T09:05:05.447481"
     },
     {
       "retailer": "granngarden",
@@ -3927,7 +3927,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:34.447825"
+      "scraped_at": "2026-09-05T09:05:05.447585"
     },
     {
       "retailer": "granngarden",
@@ -3940,7 +3940,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:37.261335"
+      "scraped_at": "2026-09-05T09:05:08.381473"
     },
     {
       "retailer": "granngarden",
@@ -3953,7 +3953,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:37.261503"
+      "scraped_at": "2026-09-05T09:05:08.381605"
     },
     {
       "retailer": "granngarden",
@@ -3966,7 +3966,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:37.261764"
+      "scraped_at": "2026-09-05T09:05:08.381823"
     },
     {
       "retailer": "granngarden",
@@ -3979,7 +3979,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:37.261867"
+      "scraped_at": "2026-09-05T09:05:08.381926"
     },
     {
       "retailer": "granngarden",
@@ -3992,7 +3992,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:37.261977"
+      "scraped_at": "2026-09-05T09:05:08.382040"
     },
     {
       "retailer": "granngarden",
@@ -4005,7 +4005,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:40.363678"
+      "scraped_at": "2026-09-05T09:05:13.041190"
     },
     {
       "retailer": "granngarden",
@@ -4018,7 +4018,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:40.364234"
+      "scraped_at": "2026-09-05T09:05:13.041821"
     },
     {
       "retailer": "granngarden",
@@ -4031,7 +4031,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:40.364471"
+      "scraped_at": "2026-09-05T09:05:13.042028"
     },
     {
       "retailer": "granngarden",
@@ -4044,7 +4044,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:40.364795"
+      "scraped_at": "2026-09-05T09:05:13.042360"
     },
     {
       "retailer": "granngarden",
@@ -4057,7 +4057,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:40.365136"
+      "scraped_at": "2026-09-05T09:05:13.042684"
     },
     {
       "retailer": "granngarden",
@@ -4070,7 +4070,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:43.886006"
+      "scraped_at": "2026-09-05T09:05:16.349846"
     },
     {
       "retailer": "granngarden",
@@ -4083,7 +4083,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:43.886160"
+      "scraped_at": "2026-09-05T09:05:16.349982"
     },
     {
       "retailer": "granngarden",
@@ -4096,7 +4096,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:43.886420"
+      "scraped_at": "2026-09-05T09:05:16.350204"
     },
     {
       "retailer": "granngarden",
@@ -4109,7 +4109,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:43.888154"
+      "scraped_at": "2026-09-05T09:05:16.351964"
     },
     {
       "retailer": "granngarden",
@@ -4122,7 +4122,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:46.806462"
+      "scraped_at": "2026-09-05T09:05:19.278882"
     },
     {
       "retailer": "granngarden",
@@ -4135,7 +4135,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:46.806623"
+      "scraped_at": "2026-09-05T09:05:19.279019"
     },
     {
       "retailer": "granngarden",
@@ -4148,7 +4148,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:46.806846"
+      "scraped_at": "2026-09-05T09:05:19.279254"
     },
     {
       "retailer": "granngarden",
@@ -4161,7 +4161,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:46.806952"
+      "scraped_at": "2026-09-05T09:05:19.279384"
     },
     {
       "retailer": "granngarden",
@@ -4174,7 +4174,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:49.565329"
+      "scraped_at": "2026-09-05T09:05:22.120691"
     },
     {
       "retailer": "granngarden",
@@ -4187,7 +4187,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:49.565484"
+      "scraped_at": "2026-09-05T09:05:22.120831"
     },
     {
       "retailer": "granngarden",
@@ -4200,7 +4200,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:49.565731"
+      "scraped_at": "2026-09-05T09:05:22.121068"
     },
     {
       "retailer": "granngarden",
@@ -4213,7 +4213,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:49.565850"
+      "scraped_at": "2026-09-05T09:05:22.121188"
     },
     {
       "retailer": "granngarden",
@@ -4226,7 +4226,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:49.565966"
+      "scraped_at": "2026-09-05T09:05:22.121312"
     },
     {
       "retailer": "granngarden",
@@ -4239,7 +4239,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:49.566078"
+      "scraped_at": "2026-09-05T09:05:22.121452"
     },
     {
       "retailer": "granngarden",
@@ -4252,7 +4252,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:49.566196"
+      "scraped_at": "2026-09-05T09:05:22.121567"
     },
     {
       "retailer": "granngarden",
@@ -4265,7 +4265,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.443538"
+      "scraped_at": "2026-09-05T09:05:25.053597"
     },
     {
       "retailer": "granngarden",
@@ -4278,7 +4278,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.443682"
+      "scraped_at": "2026-09-05T09:05:25.053741"
     },
     {
       "retailer": "granngarden",
@@ -4291,7 +4291,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.443905"
+      "scraped_at": "2026-09-05T09:05:25.053975"
     },
     {
       "retailer": "granngarden",
@@ -4304,7 +4304,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444021"
+      "scraped_at": "2026-09-05T09:05:25.054089"
     },
     {
       "retailer": "granngarden",
@@ -4317,7 +4317,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444140"
+      "scraped_at": "2026-09-05T09:05:25.054208"
     },
     {
       "retailer": "granngarden",
@@ -4330,7 +4330,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444253"
+      "scraped_at": "2026-09-05T09:05:25.054324"
     },
     {
       "retailer": "granngarden",
@@ -4343,7 +4343,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444396"
+      "scraped_at": "2026-09-05T09:05:25.054485"
     },
     {
       "retailer": "granngarden",
@@ -4356,7 +4356,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444511"
+      "scraped_at": "2026-09-05T09:05:25.054605"
     },
     {
       "retailer": "granngarden",
@@ -4369,7 +4369,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444632"
+      "scraped_at": "2026-09-05T09:05:25.054730"
     },
     {
       "retailer": "granngarden",
@@ -4382,7 +4382,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444753"
+      "scraped_at": "2026-09-05T09:05:25.054853"
     },
     {
       "retailer": "granngarden",
@@ -4395,7 +4395,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444865"
+      "scraped_at": "2026-09-05T09:05:25.054973"
     },
     {
       "retailer": "granngarden",
@@ -4408,7 +4408,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.444982"
+      "scraped_at": "2026-09-05T09:05:25.055095"
     },
     {
       "retailer": "granngarden",
@@ -4421,7 +4421,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.445095"
+      "scraped_at": "2026-09-05T09:05:25.055207"
     },
     {
       "retailer": "granngarden",
@@ -4434,7 +4434,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.445199"
+      "scraped_at": "2026-09-05T09:05:25.055313"
     },
     {
       "retailer": "granngarden",
@@ -4447,7 +4447,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.445329"
+      "scraped_at": "2026-09-05T09:05:25.055451"
     },
     {
       "retailer": "granngarden",
@@ -4460,20 +4460,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.445440"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Sättpotatis LPM Swift vår 3kg",
-      "price_sek": 119.0,
-      "product_url": "https://www.granngarden.se/sattpotatis-lpm-swift-var-3kg",
-      "image_url": "https://v.imgi.no/gy6cpyyz7l__w=210_h=0",
-      "brand": "",
-      "article_number": "1266514",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.445558"
+      "scraped_at": "2026-09-05T09:05:25.055566"
     },
     {
       "retailer": "granngarden",
@@ -4486,7 +4473,20 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.445670"
+      "scraped_at": "2026-09-05T09:05:25.055678"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Sättpotatis LPM Swift vår 3kg",
+      "price_sek": 119.0,
+      "product_url": "https://www.granngarden.se/sattpotatis-lpm-swift-var-3kg",
+      "image_url": "https://v.imgi.no/gy6cpyyz7l__w=210_h=0",
+      "brand": "",
+      "article_number": "1266514",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:05:25.055800"
     },
     {
       "retailer": "granngarden",
@@ -4499,7 +4499,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:52.445779"
+      "scraped_at": "2026-09-05T09:05:25.055910"
     },
     {
       "retailer": "granngarden",
@@ -4512,7 +4512,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.365715"
+      "scraped_at": "2026-09-05T09:05:27.848008"
     },
     {
       "retailer": "granngarden",
@@ -4525,7 +4525,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.365851"
+      "scraped_at": "2026-09-05T09:05:27.848137"
     },
     {
       "retailer": "granngarden",
@@ -4538,7 +4538,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.366083"
+      "scraped_at": "2026-09-05T09:05:27.848388"
     },
     {
       "retailer": "granngarden",
@@ -4551,20 +4551,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.366298"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Sättlök Nelson Garden 'Setton' Eko gul 250g",
-      "price_sek": 74.9,
-      "product_url": "https://www.granngarden.se/sattlok-nelson-garden-setton-eko-gul-250g",
-      "image_url": "https://v.imgi.no/2ynhct3usd__w=210_h=0",
-      "brand": "Nelson Garden",
-      "article_number": "1169739",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.366539"
+      "scraped_at": "2026-09-05T09:05:27.848507"
     },
     {
       "retailer": "granngarden",
@@ -4577,7 +4564,20 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.366643"
+      "scraped_at": "2026-09-05T09:05:27.848727"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Sättlök Nelson Garden 'Setton' Eko gul 250g",
+      "price_sek": 74.9,
+      "product_url": "https://www.granngarden.se/sattlok-nelson-garden-setton-eko-gul-250g",
+      "image_url": "https://v.imgi.no/2ynhct3usd__w=210_h=0",
+      "brand": "Nelson Garden",
+      "article_number": "1169739",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:05:27.848841"
     },
     {
       "retailer": "granngarden",
@@ -4590,7 +4590,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.366751"
+      "scraped_at": "2026-09-05T09:05:27.848946"
     },
     {
       "retailer": "granngarden",
@@ -4603,7 +4603,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.366864"
+      "scraped_at": "2026-09-05T09:05:27.849060"
     },
     {
       "retailer": "granngarden",
@@ -4616,7 +4616,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.366970"
+      "scraped_at": "2026-09-05T09:05:27.849164"
     },
     {
       "retailer": "granngarden",
@@ -4629,7 +4629,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.367072"
+      "scraped_at": "2026-09-05T09:05:27.849266"
     },
     {
       "retailer": "granngarden",
@@ -4642,20 +4642,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.367186"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Sättvitlök Nelson Garden 'Precosem' 1-p",
-      "price_sek": 59.9,
-      "product_url": "https://www.granngarden.se/sattvitlok-nelson-garden-precosem-1-p",
-      "image_url": "https://v.imgi.no/3uzth8ltm4__w=210_h=0",
-      "brand": "Nelson Garden",
-      "article_number": "2000411",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.367322"
+      "scraped_at": "2026-09-05T09:05:27.849402"
     },
     {
       "retailer": "granngarden",
@@ -4668,7 +4655,20 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.367431"
+      "scraped_at": "2026-09-05T09:05:27.849510"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Sättvitlök Nelson Garden 'Precosem' 1-p",
+      "price_sek": 59.9,
+      "product_url": "https://www.granngarden.se/sattvitlok-nelson-garden-precosem-1-p",
+      "image_url": "https://v.imgi.no/3uzth8ltm4__w=210_h=0",
+      "brand": "Nelson Garden",
+      "article_number": "2000411",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:05:27.849624"
     },
     {
       "retailer": "granngarden",
@@ -4681,7 +4681,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.367535"
+      "scraped_at": "2026-09-05T09:05:27.849729"
     },
     {
       "retailer": "granngarden",
@@ -4694,7 +4694,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.367639"
+      "scraped_at": "2026-09-05T09:05:27.849835"
     },
     {
       "retailer": "granngarden",
@@ -4707,7 +4707,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.367742"
+      "scraped_at": "2026-09-05T09:05:27.849940"
     },
     {
       "retailer": "granngarden",
@@ -4720,7 +4720,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:55.367854"
+      "scraped_at": "2026-09-05T09:05:27.850050"
     },
     {
       "retailer": "granngarden",
@@ -4733,7 +4733,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:58.454793"
+      "scraped_at": "2026-09-05T09:05:30.663052"
     },
     {
       "retailer": "granngarden",
@@ -4746,7 +4746,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:58.454920"
+      "scraped_at": "2026-09-05T09:05:30.663177"
     },
     {
       "retailer": "granngarden",
@@ -4759,7 +4759,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:58.455159"
+      "scraped_at": "2026-09-05T09:05:30.663436"
     },
     {
       "retailer": "granngarden",
@@ -4772,7 +4772,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:58.455307"
+      "scraped_at": "2026-09-05T09:05:30.663558"
     },
     {
       "retailer": "granngarden",
@@ -4785,7 +4785,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:32:58.455445"
+      "scraped_at": "2026-09-05T09:05:30.663681"
     },
     {
       "retailer": "granngarden",
@@ -4798,7 +4798,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.338539"
+      "scraped_at": "2026-09-05T09:05:33.662448"
     },
     {
       "retailer": "granngarden",
@@ -4811,7 +4811,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.338694"
+      "scraped_at": "2026-09-05T09:05:33.662586"
     },
     {
       "retailer": "granngarden",
@@ -4824,7 +4824,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.339856"
+      "scraped_at": "2026-09-05T09:05:33.662812"
     },
     {
       "retailer": "granngarden",
@@ -4837,7 +4837,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.339961"
+      "scraped_at": "2026-09-05T09:05:33.662919"
     },
     {
       "retailer": "granngarden",
@@ -4850,7 +4850,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340065"
+      "scraped_at": "2026-09-05T09:05:33.663024"
     },
     {
       "retailer": "granngarden",
@@ -4863,7 +4863,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340167"
+      "scraped_at": "2026-09-05T09:05:33.663128"
     },
     {
       "retailer": "granngarden",
@@ -4876,7 +4876,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340292"
+      "scraped_at": "2026-09-05T09:05:33.663231"
     },
     {
       "retailer": "granngarden",
@@ -4889,7 +4889,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340396"
+      "scraped_at": "2026-09-05T09:05:33.663354"
     },
     {
       "retailer": "granngarden",
@@ -4902,7 +4902,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340497"
+      "scraped_at": "2026-09-05T09:05:33.663470"
     },
     {
       "retailer": "granngarden",
@@ -4915,7 +4915,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340599"
+      "scraped_at": "2026-09-05T09:05:33.663575"
     },
     {
       "retailer": "granngarden",
@@ -4928,7 +4928,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340700"
+      "scraped_at": "2026-09-05T09:05:33.663680"
     },
     {
       "retailer": "granngarden",
@@ -4941,7 +4941,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340799"
+      "scraped_at": "2026-09-05T09:05:33.663783"
     },
     {
       "retailer": "granngarden",
@@ -4954,7 +4954,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.340900"
+      "scraped_at": "2026-09-05T09:05:33.663886"
     },
     {
       "retailer": "granngarden",
@@ -4967,7 +4967,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.341001"
+      "scraped_at": "2026-09-05T09:05:33.663989"
     },
     {
       "retailer": "granngarden",
@@ -4980,7 +4980,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.341104"
+      "scraped_at": "2026-09-05T09:05:33.664094"
     },
     {
       "retailer": "granngarden",
@@ -4993,7 +4993,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.341203"
+      "scraped_at": "2026-09-05T09:05:33.664198"
     },
     {
       "retailer": "granngarden",
@@ -5006,7 +5006,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.341323"
+      "scraped_at": "2026-09-05T09:05:33.664302"
     },
     {
       "retailer": "granngarden",
@@ -5019,7 +5019,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.341427"
+      "scraped_at": "2026-09-05T09:05:33.664432"
     },
     {
       "retailer": "granngarden",
@@ -5032,7 +5032,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:01.341536"
+      "scraped_at": "2026-09-05T09:05:33.664547"
     },
     {
       "retailer": "granngarden",
@@ -5045,7 +5045,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.108611"
+      "scraped_at": "2026-09-05T09:05:36.459516"
     },
     {
       "retailer": "granngarden",
@@ -5058,7 +5058,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.108756"
+      "scraped_at": "2026-09-05T09:05:36.459655"
     },
     {
       "retailer": "granngarden",
@@ -5071,7 +5071,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.109011"
+      "scraped_at": "2026-09-05T09:05:36.459892"
     },
     {
       "retailer": "granngarden",
@@ -5084,7 +5084,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.109138"
+      "scraped_at": "2026-09-05T09:05:36.460009"
     },
     {
       "retailer": "granngarden",
@@ -5097,7 +5097,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.109255"
+      "scraped_at": "2026-09-05T09:05:36.460119"
     },
     {
       "retailer": "granngarden",
@@ -5110,7 +5110,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.109409"
+      "scraped_at": "2026-09-05T09:05:36.460243"
     },
     {
       "retailer": "granngarden",
@@ -5123,7 +5123,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.109537"
+      "scraped_at": "2026-09-05T09:05:36.460387"
     },
     {
       "retailer": "granngarden",
@@ -5136,7 +5136,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.109660"
+      "scraped_at": "2026-09-05T09:05:36.460510"
     },
     {
       "retailer": "granngarden",
@@ -5149,7 +5149,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.109784"
+      "scraped_at": "2026-09-05T09:05:36.460629"
     },
     {
       "retailer": "granngarden",
@@ -5162,7 +5162,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.109905"
+      "scraped_at": "2026-09-05T09:05:36.460744"
     },
     {
       "retailer": "granngarden",
@@ -5175,7 +5175,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.110026"
+      "scraped_at": "2026-09-05T09:05:36.460859"
     },
     {
       "retailer": "granngarden",
@@ -5188,7 +5188,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.110148"
+      "scraped_at": "2026-09-05T09:05:36.460976"
     },
     {
       "retailer": "granngarden",
@@ -5201,7 +5201,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.110288"
+      "scraped_at": "2026-09-05T09:05:36.461094"
     },
     {
       "retailer": "granngarden",
@@ -5214,7 +5214,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.110414"
+      "scraped_at": "2026-09-05T09:05:36.461212"
     },
     {
       "retailer": "granngarden",
@@ -5227,7 +5227,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.110536"
+      "scraped_at": "2026-09-05T09:05:36.461343"
     },
     {
       "retailer": "granngarden",
@@ -5240,7 +5240,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.110658"
+      "scraped_at": "2026-09-05T09:05:36.461470"
     },
     {
       "retailer": "granngarden",
@@ -5253,7 +5253,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.110780"
+      "scraped_at": "2026-09-05T09:05:36.461590"
     },
     {
       "retailer": "granngarden",
@@ -5266,7 +5266,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.110902"
+      "scraped_at": "2026-09-05T09:05:36.461711"
     },
     {
       "retailer": "granngarden",
@@ -5279,7 +5279,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:04.111027"
+      "scraped_at": "2026-09-05T09:05:36.461831"
     },
     {
       "retailer": "granngarden",
@@ -5292,7 +5292,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.998316"
+      "scraped_at": "2026-09-05T09:05:39.501353"
     },
     {
       "retailer": "granngarden",
@@ -5305,7 +5305,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.998499"
+      "scraped_at": "2026-09-05T09:05:39.501528"
     },
     {
       "retailer": "granngarden",
@@ -5318,7 +5318,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.998756"
+      "scraped_at": "2026-09-05T09:05:39.501856"
     },
     {
       "retailer": "granngarden",
@@ -5331,7 +5331,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.998887"
+      "scraped_at": "2026-09-05T09:05:39.501981"
     },
     {
       "retailer": "granngarden",
@@ -5344,7 +5344,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.999019"
+      "scraped_at": "2026-09-05T09:05:39.502107"
     },
     {
       "retailer": "granngarden",
@@ -5357,7 +5357,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.999146"
+      "scraped_at": "2026-09-05T09:05:39.502231"
     },
     {
       "retailer": "granngarden",
@@ -5370,7 +5370,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.999290"
+      "scraped_at": "2026-09-05T09:05:39.502374"
     },
     {
       "retailer": "granngarden",
@@ -5383,7 +5383,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.999425"
+      "scraped_at": "2026-09-05T09:05:39.502502"
     },
     {
       "retailer": "granngarden",
@@ -5396,7 +5396,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.999547"
+      "scraped_at": "2026-09-05T09:05:39.502617"
     },
     {
       "retailer": "granngarden",
@@ -5409,7 +5409,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.999664"
+      "scraped_at": "2026-09-05T09:05:39.502729"
     },
     {
       "retailer": "granngarden",
@@ -5422,7 +5422,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.999783"
+      "scraped_at": "2026-09-05T09:05:39.502842"
     },
     {
       "retailer": "granngarden",
@@ -5435,7 +5435,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:06.999909"
+      "scraped_at": "2026-09-05T09:05:39.502962"
     },
     {
       "retailer": "granngarden",
@@ -5448,7 +5448,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:07.000032"
+      "scraped_at": "2026-09-05T09:05:39.503079"
     },
     {
       "retailer": "granngarden",
@@ -5461,7 +5461,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:07.000164"
+      "scraped_at": "2026-09-05T09:05:39.503199"
     },
     {
       "retailer": "granngarden",
@@ -5474,7 +5474,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:07.000302"
+      "scraped_at": "2026-09-05T09:05:39.503314"
     },
     {
       "retailer": "granngarden",
@@ -5487,7 +5487,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:07.000433"
+      "scraped_at": "2026-09-05T09:05:39.503458"
     },
     {
       "retailer": "granngarden",
@@ -5500,20 +5500,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:07.000558"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Grönsaksgödsel Rscued 1kg",
-      "price_sek": 119.0,
-      "product_url": "https://www.granngarden.se/gronsaksgodsel-rscued-1kg",
-      "image_url": "https://v.imgi.no/ga4ymbvf4d__w=210_h=0",
-      "brand": "",
-      "article_number": "1270806",
-      "category_url": "tillbehor",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:07.000673"
+      "scraped_at": "2026-09-05T09:05:39.503581"
     },
     {
       "retailer": "granngarden",
@@ -5526,7 +5513,20 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:07.000792"
+      "scraped_at": "2026-09-05T09:05:39.503696"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Grönsaksgödsel Rscued 1kg",
+      "price_sek": 119.0,
+      "product_url": "https://www.granngarden.se/gronsaksgodsel-rscued-1kg",
+      "image_url": "https://v.imgi.no/ga4ymbvf4d__w=210_h=0",
+      "brand": "",
+      "article_number": "1270806",
+      "category_url": "tillbehor",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:05:39.503806"
     },
     {
       "retailer": "granngarden",
@@ -5539,7 +5539,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.837328"
+      "scraped_at": "2026-09-05T09:05:42.428704"
     },
     {
       "retailer": "granngarden",
@@ -5552,7 +5552,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.837478"
+      "scraped_at": "2026-09-05T09:05:42.428880"
     },
     {
       "retailer": "granngarden",
@@ -5565,7 +5565,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.837721"
+      "scraped_at": "2026-09-05T09:05:42.429139"
     },
     {
       "retailer": "granngarden",
@@ -5578,7 +5578,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.837848"
+      "scraped_at": "2026-09-05T09:05:42.429266"
     },
     {
       "retailer": "granngarden",
@@ -5591,7 +5591,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.837974"
+      "scraped_at": "2026-09-05T09:05:42.429421"
     },
     {
       "retailer": "granngarden",
@@ -5604,7 +5604,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.838093"
+      "scraped_at": "2026-09-05T09:05:42.429547"
     },
     {
       "retailer": "granngarden",
@@ -5617,7 +5617,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.838203"
+      "scraped_at": "2026-09-05T09:05:42.429662"
     },
     {
       "retailer": "granngarden",
@@ -5630,7 +5630,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.838354"
+      "scraped_at": "2026-09-05T09:05:42.429789"
     },
     {
       "retailer": "granngarden",
@@ -5643,7 +5643,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.838477"
+      "scraped_at": "2026-09-05T09:05:42.429907"
     },
     {
       "retailer": "granngarden",
@@ -5656,20 +5656,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.838587"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Växtnäring Wallco 51-10-43 + micro 10L",
-      "price_sek": 595.0,
-      "product_url": "https://www.granngarden.se/vaxtnaring-wallco-51-10-43-micro-10l",
-      "image_url": "https://v.imgi.no/zdraeg4nqp__w=210_h=0",
-      "brand": "",
-      "article_number": "1270724",
-      "category_url": "tillbehor",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.838697"
+      "scraped_at": "2026-09-05T09:05:42.430017"
     },
     {
       "retailer": "granngarden",
@@ -5682,7 +5669,20 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.838812"
+      "scraped_at": "2026-09-05T09:05:42.430132"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Växtnäring Wallco 51-10-43 + micro 10L",
+      "price_sek": 595.0,
+      "product_url": "https://www.granngarden.se/vaxtnaring-wallco-51-10-43-micro-10l",
+      "image_url": "https://v.imgi.no/zdraeg4nqp__w=210_h=0",
+      "brand": "",
+      "article_number": "1270724",
+      "category_url": "tillbehor",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:05:42.430242"
     },
     {
       "retailer": "granngarden",
@@ -5695,7 +5695,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.838928"
+      "scraped_at": "2026-09-05T09:05:42.430383"
     },
     {
       "retailer": "granngarden",
@@ -5708,7 +5708,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.839313"
+      "scraped_at": "2026-09-05T09:05:42.430765"
     },
     {
       "retailer": "granngarden",
@@ -5721,7 +5721,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.839554"
+      "scraped_at": "2026-09-05T09:05:42.431005"
     },
     {
       "retailer": "granngarden",
@@ -5734,7 +5734,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:09.839675"
+      "scraped_at": "2026-09-05T09:05:42.431128"
     },
     {
       "retailer": "granngarden",
@@ -5747,7 +5747,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.598875"
+      "scraped_at": "2026-09-05T09:05:45.154119"
     },
     {
       "retailer": "granngarden",
@@ -5760,7 +5760,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.599050"
+      "scraped_at": "2026-09-05T09:05:45.154270"
     },
     {
       "retailer": "granngarden",
@@ -5773,7 +5773,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.599302"
+      "scraped_at": "2026-09-05T09:05:45.154552"
     },
     {
       "retailer": "granngarden",
@@ -5786,7 +5786,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.599426"
+      "scraped_at": "2026-09-05T09:05:45.154686"
     },
     {
       "retailer": "granngarden",
@@ -5799,7 +5799,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.599546"
+      "scraped_at": "2026-09-05T09:05:45.154819"
     },
     {
       "retailer": "granngarden",
@@ -5812,7 +5812,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.599663"
+      "scraped_at": "2026-09-05T09:05:45.154944"
     },
     {
       "retailer": "granngarden",
@@ -5825,7 +5825,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.599784"
+      "scraped_at": "2026-09-05T09:05:45.155072"
     },
     {
       "retailer": "granngarden",
@@ -5838,7 +5838,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.599899"
+      "scraped_at": "2026-09-05T09:05:45.155193"
     },
     {
       "retailer": "granngarden",
@@ -5851,7 +5851,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.600017"
+      "scraped_at": "2026-09-05T09:05:45.155321"
     },
     {
       "retailer": "granngarden",
@@ -5864,7 +5864,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.600133"
+      "scraped_at": "2026-09-05T09:05:45.155476"
     },
     {
       "retailer": "granngarden",
@@ -5877,7 +5877,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.600245"
+      "scraped_at": "2026-09-05T09:05:45.155602"
     },
     {
       "retailer": "granngarden",
@@ -5890,7 +5890,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.600382"
+      "scraped_at": "2026-09-05T09:05:45.155728"
     },
     {
       "retailer": "granngarden",
@@ -5903,7 +5903,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.600502"
+      "scraped_at": "2026-09-05T09:05:45.155858"
     },
     {
       "retailer": "granngarden",
@@ -5916,7 +5916,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.600643"
+      "scraped_at": "2026-09-05T09:05:45.155986"
     },
     {
       "retailer": "granngarden",
@@ -5929,7 +5929,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.600786"
+      "scraped_at": "2026-09-05T09:05:45.156116"
     },
     {
       "retailer": "granngarden",
@@ -5942,7 +5942,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.600892"
+      "scraped_at": "2026-09-05T09:05:45.156230"
     },
     {
       "retailer": "granngarden",
@@ -5955,7 +5955,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.601006"
+      "scraped_at": "2026-09-05T09:05:45.156376"
     },
     {
       "retailer": "granngarden",
@@ -5968,7 +5968,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.601125"
+      "scraped_at": "2026-09-05T09:05:45.156513"
     },
     {
       "retailer": "granngarden",
@@ -5981,7 +5981,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:12.601226"
+      "scraped_at": "2026-09-05T09:05:45.156625"
     },
     {
       "retailer": "granngarden",
@@ -5994,7 +5994,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.791046"
+      "scraped_at": "2026-09-05T09:05:48.276403"
     },
     {
       "retailer": "granngarden",
@@ -6007,7 +6007,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.791172"
+      "scraped_at": "2026-09-05T09:05:48.276535"
     },
     {
       "retailer": "granngarden",
@@ -6020,7 +6020,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.791447"
+      "scraped_at": "2026-09-05T09:05:48.276776"
     },
     {
       "retailer": "granngarden",
@@ -6033,7 +6033,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.791570"
+      "scraped_at": "2026-09-05T09:05:48.276897"
     },
     {
       "retailer": "granngarden",
@@ -6046,7 +6046,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.791691"
+      "scraped_at": "2026-09-05T09:05:48.277014"
     },
     {
       "retailer": "granngarden",
@@ -6059,7 +6059,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.791819"
+      "scraped_at": "2026-09-05T09:05:48.277138"
     },
     {
       "retailer": "granngarden",
@@ -6072,7 +6072,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.791932"
+      "scraped_at": "2026-09-05T09:05:48.277246"
     },
     {
       "retailer": "granngarden",
@@ -6085,7 +6085,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.792051"
+      "scraped_at": "2026-09-05T09:05:48.277386"
     },
     {
       "retailer": "granngarden",
@@ -6098,7 +6098,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.792172"
+      "scraped_at": "2026-09-05T09:05:48.277509"
     },
     {
       "retailer": "granngarden",
@@ -6111,20 +6111,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.792309"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Plattrensjärn Fiskars Classic långskaftat",
-      "price_sek": 349.0,
-      "product_url": "https://www.granngarden.se/plattrensjarn-fiskars-classic-langskaftat",
-      "image_url": "https://v.imgi.no/kplnr8un8z__w=210_h=0",
-      "brand": "Fiskars",
-      "article_number": "1183781",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.792436"
+      "scraped_at": "2026-09-05T09:05:48.277628"
     },
     {
       "retailer": "granngarden",
@@ -6137,7 +6124,20 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.793308"
+      "scraped_at": "2026-09-05T09:05:48.277754"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Plattrensjärn Fiskars Classic långskaftat",
+      "price_sek": 349.0,
+      "product_url": "https://www.granngarden.se/plattrensjarn-fiskars-classic-langskaftat",
+      "image_url": "https://v.imgi.no/kplnr8un8z__w=210_h=0",
+      "brand": "Fiskars",
+      "article_number": "1183781",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:05:48.277872"
     },
     {
       "retailer": "granngarden",
@@ -6150,7 +6150,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.793434"
+      "scraped_at": "2026-09-05T09:05:48.277996"
     },
     {
       "retailer": "granngarden",
@@ -6163,7 +6163,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.793538"
+      "scraped_at": "2026-09-05T09:05:48.278103"
     },
     {
       "retailer": "granngarden",
@@ -6176,7 +6176,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.793641"
+      "scraped_at": "2026-09-05T09:05:48.278209"
     },
     {
       "retailer": "granngarden",
@@ -6189,7 +6189,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.793747"
+      "scraped_at": "2026-09-05T09:05:48.278321"
     },
     {
       "retailer": "granngarden",
@@ -6202,7 +6202,20 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.793859"
+      "scraped_at": "2026-09-05T09:05:48.278479"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Bågsåg Fiskars SW30 21\"",
+      "price_sek": 249.0,
+      "product_url": "https://www.granngarden.se/bagsag-fiskars-sw30-21",
+      "image_url": "https://v.imgi.no/cdjukfac6u__w=210_h=0",
+      "brand": "Fiskars",
+      "article_number": "1266310",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:05:48.278598"
     },
     {
       "retailer": "granngarden",
@@ -6215,20 +6228,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.793972"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Kultivator Fiskars Prima",
-      "price_sek": 379.0,
-      "product_url": "https://www.granngarden.se/kultivator-fiskars-prima",
-      "image_url": "https://v.imgi.no/h38u3aa8f6__w=210_h=0",
-      "brand": "Fiskars",
-      "article_number": "1027494",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:15.794085"
+      "scraped_at": "2026-09-05T09:05:48.278712"
     },
     {
       "retailer": "granngarden",
@@ -6241,7 +6241,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.010302"
+      "scraped_at": "2026-09-05T09:05:51.375445"
     },
     {
       "retailer": "granngarden",
@@ -6254,7 +6254,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.010449"
+      "scraped_at": "2026-09-05T09:05:51.375586"
     },
     {
       "retailer": "granngarden",
@@ -6267,7 +6267,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.010682"
+      "scraped_at": "2026-09-05T09:05:51.375818"
     },
     {
       "retailer": "granngarden",
@@ -6280,7 +6280,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.010793"
+      "scraped_at": "2026-09-05T09:05:51.375928"
     },
     {
       "retailer": "granngarden",
@@ -6293,7 +6293,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.010913"
+      "scraped_at": "2026-09-05T09:05:51.376047"
     },
     {
       "retailer": "granngarden",
@@ -6306,7 +6306,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011022"
+      "scraped_at": "2026-09-05T09:05:51.376155"
     },
     {
       "retailer": "granngarden",
@@ -6319,7 +6319,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011134"
+      "scraped_at": "2026-09-05T09:05:51.376263"
     },
     {
       "retailer": "granngarden",
@@ -6332,7 +6332,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011251"
+      "scraped_at": "2026-09-05T09:05:51.376418"
     },
     {
       "retailer": "granngarden",
@@ -6345,7 +6345,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011397"
+      "scraped_at": "2026-09-05T09:05:51.376543"
     },
     {
       "retailer": "granngarden",
@@ -6358,7 +6358,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011517"
+      "scraped_at": "2026-09-05T09:05:51.376659"
     },
     {
       "retailer": "granngarden",
@@ -6371,7 +6371,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011641"
+      "scraped_at": "2026-09-05T09:05:51.376781"
     },
     {
       "retailer": "granngarden",
@@ -6384,7 +6384,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011756"
+      "scraped_at": "2026-09-05T09:05:51.376901"
     },
     {
       "retailer": "granngarden",
@@ -6397,7 +6397,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011868"
+      "scraped_at": "2026-09-05T09:05:51.377017"
     },
     {
       "retailer": "granngarden",
@@ -6410,7 +6410,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.011982"
+      "scraped_at": "2026-09-05T09:05:51.377132"
     },
     {
       "retailer": "granngarden",
@@ -6423,7 +6423,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.012085"
+      "scraped_at": "2026-09-05T09:05:51.377235"
     },
     {
       "retailer": "granngarden",
@@ -6436,7 +6436,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.012201"
+      "scraped_at": "2026-09-05T09:05:51.377369"
     },
     {
       "retailer": "granngarden",
@@ -6449,7 +6449,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.012326"
+      "scraped_at": "2026-09-05T09:05:51.377474"
     },
     {
       "retailer": "granngarden",
@@ -6462,7 +6462,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.012434"
+      "scraped_at": "2026-09-05T09:05:51.377579"
     },
     {
       "retailer": "granngarden",
@@ -6475,7 +6475,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:19.012550"
+      "scraped_at": "2026-09-05T09:05:51.377694"
     },
     {
       "retailer": "granngarden",
@@ -6488,7 +6488,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.946023"
+      "scraped_at": "2026-09-05T09:05:54.417097"
     },
     {
       "retailer": "granngarden",
@@ -6501,7 +6501,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.946158"
+      "scraped_at": "2026-09-05T09:05:54.417234"
     },
     {
       "retailer": "granngarden",
@@ -6514,7 +6514,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.946436"
+      "scraped_at": "2026-09-05T09:05:54.417493"
     },
     {
       "retailer": "granngarden",
@@ -6527,7 +6527,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.946556"
+      "scraped_at": "2026-09-05T09:05:54.417602"
     },
     {
       "retailer": "granngarden",
@@ -6540,7 +6540,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.946686"
+      "scraped_at": "2026-09-05T09:05:54.417720"
     },
     {
       "retailer": "granngarden",
@@ -6553,7 +6553,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.946800"
+      "scraped_at": "2026-09-05T09:05:54.417828"
     },
     {
       "retailer": "granngarden",
@@ -6566,7 +6566,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.946926"
+      "scraped_at": "2026-09-05T09:05:54.417945"
     },
     {
       "retailer": "granngarden",
@@ -6579,7 +6579,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.947048"
+      "scraped_at": "2026-09-05T09:05:54.418060"
     },
     {
       "retailer": "granngarden",
@@ -6592,7 +6592,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.947167"
+      "scraped_at": "2026-09-05T09:05:54.418171"
     },
     {
       "retailer": "granngarden",
@@ -6605,7 +6605,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.947309"
+      "scraped_at": "2026-09-05T09:05:54.418287"
     },
     {
       "retailer": "granngarden",
@@ -6618,7 +6618,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.947436"
+      "scraped_at": "2026-09-05T09:05:54.418424"
     },
     {
       "retailer": "granngarden",
@@ -6631,7 +6631,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.947549"
+      "scraped_at": "2026-09-05T09:05:54.418530"
     },
     {
       "retailer": "granngarden",
@@ -6644,7 +6644,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.947671"
+      "scraped_at": "2026-09-05T09:05:54.418645"
     },
     {
       "retailer": "granngarden",
@@ -6657,7 +6657,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.947782"
+      "scraped_at": "2026-09-05T09:05:54.418750"
     },
     {
       "retailer": "granngarden",
@@ -6670,7 +6670,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.947903"
+      "scraped_at": "2026-09-05T09:05:54.418862"
     },
     {
       "retailer": "granngarden",
@@ -6683,20 +6683,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.948025"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Sprinklerstav Gardena Comfort",
-      "price_sek": 449.0,
-      "product_url": "https://www.granngarden.se/sprinklerstav-gardena-comfort",
-      "image_url": "https://v.imgi.no/hax8k7jvyf__w=210_h=0",
-      "brand": "Gardena",
-      "article_number": "1260257",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.948149"
+      "scraped_at": "2026-09-05T09:05:54.418978"
     },
     {
       "retailer": "granngarden",
@@ -6709,7 +6696,20 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.948297"
+      "scraped_at": "2026-09-05T09:05:54.419093"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Sprinklerstav Gardena Comfort",
+      "price_sek": 449.0,
+      "product_url": "https://www.granngarden.se/sprinklerstav-gardena-comfort",
+      "image_url": "https://v.imgi.no/hax8k7jvyf__w=210_h=0",
+      "brand": "Gardena",
+      "article_number": "1260257",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:05:54.419214"
     },
     {
       "retailer": "granngarden",
@@ -6722,7 +6722,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:21.948465"
+      "scraped_at": "2026-09-05T09:05:54.419347"
     },
     {
       "retailer": "granngarden",
@@ -6735,7 +6735,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.984998"
+      "scraped_at": "2026-09-05T09:05:57.300732"
     },
     {
       "retailer": "granngarden",
@@ -6748,7 +6748,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.985442"
+      "scraped_at": "2026-09-05T09:05:57.301134"
     },
     {
       "retailer": "granngarden",
@@ -6761,7 +6761,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.985679"
+      "scraped_at": "2026-09-05T09:05:57.301251"
     },
     {
       "retailer": "granngarden",
@@ -6774,7 +6774,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.985795"
+      "scraped_at": "2026-09-05T09:05:57.301393"
     },
     {
       "retailer": "granngarden",
@@ -6787,7 +6787,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.986031"
+      "scraped_at": "2026-09-05T09:05:57.301751"
     },
     {
       "retailer": "granngarden",
@@ -6800,7 +6800,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.986146"
+      "scraped_at": "2026-09-05T09:05:57.301868"
     },
     {
       "retailer": "granngarden",
@@ -6813,7 +6813,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.986279"
+      "scraped_at": "2026-09-05T09:05:57.301988"
     },
     {
       "retailer": "granngarden",
@@ -6826,7 +6826,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.986396"
+      "scraped_at": "2026-09-05T09:05:57.302100"
     },
     {
       "retailer": "granngarden",
@@ -6839,7 +6839,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.986512"
+      "scraped_at": "2026-09-05T09:05:57.302216"
     },
     {
       "retailer": "granngarden",
@@ -6852,7 +6852,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.986742"
+      "scraped_at": "2026-09-05T09:05:57.302494"
     },
     {
       "retailer": "granngarden",
@@ -6865,7 +6865,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.986854"
+      "scraped_at": "2026-09-05T09:05:57.302611"
     },
     {
       "retailer": "granngarden",
@@ -6878,7 +6878,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.986970"
+      "scraped_at": "2026-09-05T09:05:57.302741"
     },
     {
       "retailer": "granngarden",
@@ -6891,7 +6891,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.987086"
+      "scraped_at": "2026-09-05T09:05:57.302861"
     },
     {
       "retailer": "granngarden",
@@ -6904,7 +6904,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.987200"
+      "scraped_at": "2026-09-05T09:05:57.302980"
     },
     {
       "retailer": "granngarden",
@@ -6917,7 +6917,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:24.987322"
+      "scraped_at": "2026-09-05T09:05:57.303086"
     },
     {
       "retailer": "granngarden",
@@ -6930,7 +6930,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.029100"
+      "scraped_at": "2026-09-05T09:06:00.480929"
     },
     {
       "retailer": "granngarden",
@@ -6943,7 +6943,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.029235"
+      "scraped_at": "2026-09-05T09:06:00.481069"
     },
     {
       "retailer": "granngarden",
@@ -6956,7 +6956,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.029508"
+      "scraped_at": "2026-09-05T09:06:00.481328"
     },
     {
       "retailer": "granngarden",
@@ -6969,7 +6969,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.029633"
+      "scraped_at": "2026-09-05T09:06:00.481493"
     },
     {
       "retailer": "granngarden",
@@ -6982,7 +6982,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.029761"
+      "scraped_at": "2026-09-05T09:06:00.481629"
     },
     {
       "retailer": "granngarden",
@@ -6995,7 +6995,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.029879"
+      "scraped_at": "2026-09-05T09:06:00.481756"
     },
     {
       "retailer": "granngarden",
@@ -7008,7 +7008,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.030006"
+      "scraped_at": "2026-09-05T09:06:00.481886"
     },
     {
       "retailer": "granngarden",
@@ -7021,7 +7021,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.030132"
+      "scraped_at": "2026-09-05T09:06:00.482017"
     },
     {
       "retailer": "granngarden",
@@ -7034,7 +7034,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.030253"
+      "scraped_at": "2026-09-05T09:06:00.482149"
     },
     {
       "retailer": "granngarden",
@@ -7047,7 +7047,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.030403"
+      "scraped_at": "2026-09-05T09:06:00.482280"
     },
     {
       "retailer": "granngarden",
@@ -7060,7 +7060,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.030520"
+      "scraped_at": "2026-09-05T09:06:00.482427"
     },
     {
       "retailer": "granngarden",
@@ -7073,7 +7073,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.030643"
+      "scraped_at": "2026-09-05T09:06:00.482561"
     },
     {
       "retailer": "granngarden",
@@ -7086,7 +7086,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.030760"
+      "scraped_at": "2026-09-05T09:06:00.482684"
     },
     {
       "retailer": "granngarden",
@@ -7099,7 +7099,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.030883"
+      "scraped_at": "2026-09-05T09:06:00.482814"
     },
     {
       "retailer": "granngarden",
@@ -7112,7 +7112,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.031000"
+      "scraped_at": "2026-09-05T09:06:00.482936"
     },
     {
       "retailer": "granngarden",
@@ -7125,7 +7125,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.031123"
+      "scraped_at": "2026-09-05T09:06:00.483066"
     },
     {
       "retailer": "granngarden",
@@ -7138,7 +7138,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.031237"
+      "scraped_at": "2026-09-05T09:06:00.483187"
     },
     {
       "retailer": "granngarden",
@@ -7151,7 +7151,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.031385"
+      "scraped_at": "2026-09-05T09:06:00.483316"
     },
     {
       "retailer": "granngarden",
@@ -7164,7 +7164,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:28.031516"
+      "scraped_at": "2026-09-05T09:06:00.483464"
     },
     {
       "retailer": "granngarden",
@@ -7177,7 +7177,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.776712"
+      "scraped_at": "2026-09-05T09:06:03.357840"
     },
     {
       "retailer": "granngarden",
@@ -7190,7 +7190,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.776890"
+      "scraped_at": "2026-09-05T09:06:03.357986"
     },
     {
       "retailer": "granngarden",
@@ -7203,7 +7203,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.777170"
+      "scraped_at": "2026-09-05T09:06:03.358224"
     },
     {
       "retailer": "granngarden",
@@ -7216,7 +7216,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.777348"
+      "scraped_at": "2026-09-05T09:06:03.358367"
     },
     {
       "retailer": "granngarden",
@@ -7229,7 +7229,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.777484"
+      "scraped_at": "2026-09-05T09:06:03.358488"
     },
     {
       "retailer": "granngarden",
@@ -7242,7 +7242,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.777609"
+      "scraped_at": "2026-09-05T09:06:03.358592"
     },
     {
       "retailer": "granngarden",
@@ -7255,7 +7255,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.777735"
+      "scraped_at": "2026-09-05T09:06:03.358704"
     },
     {
       "retailer": "granngarden",
@@ -7268,7 +7268,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.777861"
+      "scraped_at": "2026-09-05T09:06:03.358822"
     },
     {
       "retailer": "granngarden",
@@ -7281,7 +7281,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.777981"
+      "scraped_at": "2026-09-05T09:06:03.358939"
     },
     {
       "retailer": "granngarden",
@@ -7294,7 +7294,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.778101"
+      "scraped_at": "2026-09-05T09:06:03.359054"
     },
     {
       "retailer": "granngarden",
@@ -7307,7 +7307,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.778210"
+      "scraped_at": "2026-09-05T09:06:03.359159"
     },
     {
       "retailer": "granngarden",
@@ -7320,7 +7320,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.778350"
+      "scraped_at": "2026-09-05T09:06:03.359273"
     },
     {
       "retailer": "granngarden",
@@ -7333,7 +7333,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.778476"
+      "scraped_at": "2026-09-05T09:06:03.359453"
     },
     {
       "retailer": "granngarden",
@@ -7346,7 +7346,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.778591"
+      "scraped_at": "2026-09-05T09:06:03.359579"
     },
     {
       "retailer": "granngarden",
@@ -7359,7 +7359,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.778707"
+      "scraped_at": "2026-09-05T09:06:03.359694"
     },
     {
       "retailer": "granngarden",
@@ -7372,7 +7372,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.778818"
+      "scraped_at": "2026-09-05T09:06:03.359867"
     },
     {
       "retailer": "granngarden",
@@ -7385,7 +7385,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.778924"
+      "scraped_at": "2026-09-05T09:06:03.359976"
     },
     {
       "retailer": "granngarden",
@@ -7398,7 +7398,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.779042"
+      "scraped_at": "2026-09-05T09:06:03.360089"
     },
     {
       "retailer": "granngarden",
@@ -7411,7 +7411,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:30.779149"
+      "scraped_at": "2026-09-05T09:06:03.360193"
     },
     {
       "retailer": "granngarden",
@@ -7424,7 +7424,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.717370"
+      "scraped_at": "2026-09-05T09:06:06.312071"
     },
     {
       "retailer": "granngarden",
@@ -7437,7 +7437,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.717555"
+      "scraped_at": "2026-09-05T09:06:06.312224"
     },
     {
       "retailer": "granngarden",
@@ -7450,7 +7450,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.717830"
+      "scraped_at": "2026-09-05T09:06:06.312495"
     },
     {
       "retailer": "granngarden",
@@ -7463,7 +7463,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.717959"
+      "scraped_at": "2026-09-05T09:06:06.312616"
     },
     {
       "retailer": "granngarden",
@@ -7476,7 +7476,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.718082"
+      "scraped_at": "2026-09-05T09:06:06.312733"
     },
     {
       "retailer": "granngarden",
@@ -7489,7 +7489,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.718355"
+      "scraped_at": "2026-09-05T09:06:06.312976"
     },
     {
       "retailer": "granngarden",
@@ -7502,7 +7502,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.718484"
+      "scraped_at": "2026-09-05T09:06:06.313096"
     },
     {
       "retailer": "granngarden",
@@ -7515,7 +7515,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.718606"
+      "scraped_at": "2026-09-05T09:06:06.313212"
     },
     {
       "retailer": "granngarden",
@@ -7528,20 +7528,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.718728"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Mellanstag Ventura till pallkragsbåge Svart",
-      "price_sek": 29.9,
-      "product_url": "https://www.granngarden.se/mellanstag-ventura-till-pallkragsbage-svart",
-      "image_url": "https://v.imgi.no/p58p7dbc2x__w=210_h=0",
-      "brand": "",
-      "article_number": "1266823",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.718849"
+      "scraped_at": "2026-09-05T09:06:06.313327"
     },
     {
       "retailer": "granngarden",
@@ -7554,7 +7541,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.719097"
+      "scraped_at": "2026-09-05T09:06:06.313589"
     },
     {
       "retailer": "granngarden",
@@ -7567,7 +7554,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.719223"
+      "scraped_at": "2026-09-05T09:06:06.313710"
     },
     {
       "retailer": "granngarden",
@@ -7580,20 +7567,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.719604"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Fat med tassar Ventura Rostig Ø30cm",
-      "price_sek": 179.0,
-      "product_url": "https://www.granngarden.se/fat-med-tassar-ventura-rostig-o30cm",
-      "image_url": "https://v.imgi.no/nfcu88l4pp__w=210_h=0",
-      "brand": "",
-      "article_number": "1269081",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.719716"
+      "scraped_at": "2026-09-05T09:06:06.314053"
     },
     {
       "retailer": "granngarden",
@@ -7606,7 +7580,20 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:33.719839"
+      "scraped_at": "2026-09-05T09:06:06.314175"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Spaljé Nyby Bruk bågformad med fjärilar rostig 50x136cm",
+      "price_sek": 299.0,
+      "product_url": "https://www.granngarden.se/spalje-nyby-bruk-bagformad-med-fjarilar-rostig-50x136cm",
+      "image_url": "https://v.imgi.no/qqudpc3vdz__w=210_h=0",
+      "brand": "",
+      "article_number": "1270712",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:06:06.314443"
     },
     {
       "retailer": "granngarden",
@@ -7619,7 +7606,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:36.480799"
+      "scraped_at": "2026-09-05T09:06:09.427914"
     },
     {
       "retailer": "granngarden",
@@ -7632,7 +7619,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:36.481058"
+      "scraped_at": "2026-09-05T09:06:09.428276"
     },
     {
       "retailer": "granngarden",
@@ -7645,7 +7632,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.402568"
+      "scraped_at": "2026-09-05T09:06:12.453152"
     },
     {
       "retailer": "granngarden",
@@ -7658,7 +7645,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.402699"
+      "scraped_at": "2026-09-05T09:06:12.453416"
     },
     {
       "retailer": "granngarden",
@@ -7671,7 +7658,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.402818"
+      "scraped_at": "2026-09-05T09:06:12.453534"
     },
     {
       "retailer": "granngarden",
@@ -7684,7 +7671,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.402943"
+      "scraped_at": "2026-09-05T09:06:12.453656"
     },
     {
       "retailer": "granngarden",
@@ -7697,7 +7684,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.403069"
+      "scraped_at": "2026-09-05T09:06:12.453776"
     },
     {
       "retailer": "granngarden",
@@ -7710,7 +7697,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.403184"
+      "scraped_at": "2026-09-05T09:06:12.453887"
     },
     {
       "retailer": "granngarden",
@@ -7723,7 +7710,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.403318"
+      "scraped_at": "2026-09-05T09:06:12.453998"
     },
     {
       "retailer": "granngarden",
@@ -7736,7 +7723,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.403438"
+      "scraped_at": "2026-09-05T09:06:12.454109"
     },
     {
       "retailer": "granngarden",
@@ -7749,7 +7736,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.403553"
+      "scraped_at": "2026-09-05T09:06:12.454220"
     },
     {
       "retailer": "granngarden",
@@ -7762,7 +7749,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 6,
-      "scraped_at": "2026-09-04T09:33:39.403683"
+      "scraped_at": "2026-09-05T09:06:12.454364"
     },
     {
       "retailer": "granngarden",
@@ -7775,7 +7762,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.403919"
+      "scraped_at": "2026-09-05T09:06:12.454589"
     },
     {
       "retailer": "granngarden",
@@ -7788,7 +7775,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 6,
-      "scraped_at": "2026-09-04T09:33:39.404046"
+      "scraped_at": "2026-09-05T09:06:12.454710"
     },
     {
       "retailer": "granngarden",
@@ -7801,7 +7788,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.404169"
+      "scraped_at": "2026-09-05T09:06:12.454825"
     },
     {
       "retailer": "granngarden",
@@ -7814,7 +7801,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:39.404311"
+      "scraped_at": "2026-09-05T09:06:12.454945"
     },
     {
       "retailer": "granngarden",
@@ -7827,7 +7814,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:42.518218"
+      "scraped_at": "2026-09-05T09:06:15.500580"
     },
     {
       "retailer": "granngarden",
@@ -7840,20 +7827,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:42.518346"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Myrmedel Myrr Myrdosa Honung 2-p",
-      "price_sek": 129.0,
-      "product_url": "https://www.granngarden.se/myrmedel-myrr-myrdosa-honung-2-p",
-      "image_url": "https://v.imgi.no/gfk3vs3dsz__w=210_h=0",
-      "brand": "",
-      "article_number": "1183704",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:42.518459"
+      "scraped_at": "2026-09-05T09:06:15.500694"
     },
     {
       "retailer": "granngarden",
@@ -7866,7 +7840,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:42.518692"
+      "scraped_at": "2026-09-05T09:06:15.500943"
     },
     {
       "retailer": "granngarden",
@@ -7879,7 +7853,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:42.519040"
+      "scraped_at": "2026-09-05T09:06:15.501306"
     },
     {
       "retailer": "granngarden",
@@ -7892,7 +7866,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:42.519408"
+      "scraped_at": "2026-09-05T09:06:15.501684"
     },
     {
       "retailer": "granngarden",
@@ -7905,7 +7879,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:42.519520"
+      "scraped_at": "2026-09-05T09:06:15.501795"
     },
     {
       "retailer": "granngarden",
@@ -7918,7 +7892,20 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:42.519629"
+      "scraped_at": "2026-09-05T09:06:15.501911"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Frostvakt/Termostat EVP",
+      "price_sek": 579.0,
+      "product_url": "https://www.granngarden.se/frostvakttermostat-evp",
+      "image_url": "https://v.imgi.no/z7emzv583g__w=210_h=0",
+      "brand": "",
+      "article_number": "1251763",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:06:15.502023"
     },
     {
       "retailer": "granngarden",
@@ -7931,7 +7918,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.386622"
+      "scraped_at": "2026-09-05T09:06:18.296522"
     },
     {
       "retailer": "granngarden",
@@ -7944,7 +7931,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.386759"
+      "scraped_at": "2026-09-05T09:06:18.296655"
     },
     {
       "retailer": "granngarden",
@@ -7957,7 +7944,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.386995"
+      "scraped_at": "2026-09-05T09:06:18.296888"
     },
     {
       "retailer": "granngarden",
@@ -7970,7 +7957,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.387114"
+      "scraped_at": "2026-09-05T09:06:18.297004"
     },
     {
       "retailer": "granngarden",
@@ -7983,7 +7970,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.387233"
+      "scraped_at": "2026-09-05T09:06:18.297119"
     },
     {
       "retailer": "granngarden",
@@ -7996,7 +7983,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.387376"
+      "scraped_at": "2026-09-05T09:06:18.297233"
     },
     {
       "retailer": "granngarden",
@@ -8009,7 +7996,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.387496"
+      "scraped_at": "2026-09-05T09:06:18.297369"
     },
     {
       "retailer": "granngarden",
@@ -8022,7 +8009,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.387611"
+      "scraped_at": "2026-09-05T09:06:18.297491"
     },
     {
       "retailer": "granngarden",
@@ -8035,7 +8022,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.387724"
+      "scraped_at": "2026-09-05T09:06:18.297609"
     },
     {
       "retailer": "granngarden",
@@ -8048,7 +8035,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.387843"
+      "scraped_at": "2026-09-05T09:06:18.297731"
     },
     {
       "retailer": "granngarden",
@@ -8061,7 +8048,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.387959"
+      "scraped_at": "2026-09-05T09:06:18.297842"
     },
     {
       "retailer": "granngarden",
@@ -8074,7 +8061,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.388075"
+      "scraped_at": "2026-09-05T09:06:18.297956"
     },
     {
       "retailer": "granngarden",
@@ -8087,7 +8074,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:45.388204"
+      "scraped_at": "2026-09-05T09:06:18.298078"
     },
     {
       "retailer": "granngarden",
@@ -8100,7 +8087,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.410227"
+      "scraped_at": "2026-09-05T09:06:22.405649"
     },
     {
       "retailer": "granngarden",
@@ -8113,7 +8100,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.410382"
+      "scraped_at": "2026-09-05T09:06:22.405780"
     },
     {
       "retailer": "granngarden",
@@ -8126,7 +8113,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.410616"
+      "scraped_at": "2026-09-05T09:06:22.406017"
     },
     {
       "retailer": "granngarden",
@@ -8139,7 +8126,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.410734"
+      "scraped_at": "2026-09-05T09:06:22.406213"
     },
     {
       "retailer": "granngarden",
@@ -8152,7 +8139,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.410846"
+      "scraped_at": "2026-09-05T09:06:22.406347"
     },
     {
       "retailer": "granngarden",
@@ -8165,7 +8152,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 56,
-      "scraped_at": "2026-09-04T09:33:49.410963"
+      "scraped_at": "2026-09-05T09:06:22.406478"
     },
     {
       "retailer": "granngarden",
@@ -8178,7 +8165,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.411085"
+      "scraped_at": "2026-09-05T09:06:22.406603"
     },
     {
       "retailer": "granngarden",
@@ -8191,7 +8178,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.411197"
+      "scraped_at": "2026-09-05T09:06:22.406717"
     },
     {
       "retailer": "granngarden",
@@ -8204,7 +8191,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.411331"
+      "scraped_at": "2026-09-05T09:06:22.406829"
     },
     {
       "retailer": "granngarden",
@@ -8217,7 +8204,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.411444"
+      "scraped_at": "2026-09-05T09:06:22.406939"
     },
     {
       "retailer": "granngarden",
@@ -8230,7 +8217,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.411557"
+      "scraped_at": "2026-09-05T09:06:22.407156"
     },
     {
       "retailer": "granngarden",
@@ -8243,7 +8230,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.411769"
+      "scraped_at": "2026-09-05T09:06:22.407266"
     },
     {
       "retailer": "granngarden",
@@ -8256,7 +8243,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 56,
-      "scraped_at": "2026-09-04T09:33:49.411883"
+      "scraped_at": "2026-09-05T09:06:22.407403"
     },
     {
       "retailer": "granngarden",
@@ -8269,7 +8256,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.412101"
+      "scraped_at": "2026-09-05T09:06:22.407627"
     },
     {
       "retailer": "granngarden",
@@ -8282,7 +8269,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.412218"
+      "scraped_at": "2026-09-05T09:06:22.407748"
     },
     {
       "retailer": "granngarden",
@@ -8295,7 +8282,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.412351"
+      "scraped_at": "2026-09-05T09:06:22.407858"
     },
     {
       "retailer": "granngarden",
@@ -8308,7 +8295,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:49.412463"
+      "scraped_at": "2026-09-05T09:06:22.407970"
     },
     {
       "retailer": "granngarden",
@@ -8321,7 +8308,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.410823"
+      "scraped_at": "2026-09-05T09:06:27.779983"
     },
     {
       "retailer": "granngarden",
@@ -8334,7 +8321,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.410950"
+      "scraped_at": "2026-09-05T09:06:27.780137"
     },
     {
       "retailer": "granngarden",
@@ -8347,7 +8334,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.411338"
+      "scraped_at": "2026-09-05T09:06:27.780610"
     },
     {
       "retailer": "granngarden",
@@ -8360,7 +8347,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.411446"
+      "scraped_at": "2026-09-05T09:06:27.780740"
     },
     {
       "retailer": "granngarden",
@@ -8373,7 +8360,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.411554"
+      "scraped_at": "2026-09-05T09:06:27.780875"
     },
     {
       "retailer": "granngarden",
@@ -8386,7 +8373,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.411657"
+      "scraped_at": "2026-09-05T09:06:27.780986"
     },
     {
       "retailer": "granngarden",
@@ -8399,7 +8386,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.411851"
+      "scraped_at": "2026-09-05T09:06:27.781089"
     },
     {
       "retailer": "granngarden",
@@ -8412,7 +8399,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.411963"
+      "scraped_at": "2026-09-05T09:06:27.781191"
     },
     {
       "retailer": "granngarden",
@@ -8425,7 +8412,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.412075"
+      "scraped_at": "2026-09-05T09:06:27.781300"
     },
     {
       "retailer": "granngarden",
@@ -8438,7 +8425,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.412196"
+      "scraped_at": "2026-09-05T09:06:27.781446"
     },
     {
       "retailer": "granngarden",
@@ -8451,7 +8438,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.412326"
+      "scraped_at": "2026-09-05T09:06:27.781558"
     },
     {
       "retailer": "granngarden",
@@ -8464,7 +8451,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.412547"
+      "scraped_at": "2026-09-05T09:06:27.781779"
     },
     {
       "retailer": "granngarden",
@@ -8477,46 +8464,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.412659"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Säckbuske kalifornisk syrén",
-      "price_sek": 459.0,
-      "product_url": "https://www.granngarden.se/sackbuske-kalifornisk-syren",
-      "image_url": "https://v.imgi.no/zjvgv48xym__w=210_h=0",
-      "brand": "",
-      "article_number": "2004892",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.412763"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Doftschersmin krukodlad",
-      "price_sek": 2189.0,
-      "product_url": "https://www.granngarden.se/doftschersmin-krukodlad",
-      "image_url": "https://v.imgi.no/ueaslcjkjk__w=210_h=0",
-      "brand": "",
-      "article_number": "2004819",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.412866"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Buskstöd Nyby Bruk grön",
-      "price_sek": 39.9,
-      "product_url": "https://www.granngarden.se/buskstod-nyby-bruk-gron",
-      "image_url": "https://v.imgi.no/jd8ukfr2yf__w=210_h=0",
-      "brand": "",
-      "article_number": "2003242",
-      "category_url": "",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.412971"
+      "scraped_at": "2026-09-05T09:06:27.781894"
     },
     {
       "retailer": "granngarden",
@@ -8529,7 +8477,46 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:53.413088"
+      "scraped_at": "2026-09-05T09:06:27.782013"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Säckbuske kalifornisk syrén",
+      "price_sek": 459.0,
+      "product_url": "https://www.granngarden.se/sackbuske-kalifornisk-syren",
+      "image_url": "https://v.imgi.no/zjvgv48xym__w=210_h=0",
+      "brand": "",
+      "article_number": "2004892",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:06:27.782117"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Doftschersmin krukodlad",
+      "price_sek": 2189.0,
+      "product_url": "https://www.granngarden.se/doftschersmin-krukodlad",
+      "image_url": "https://v.imgi.no/ueaslcjkjk__w=210_h=0",
+      "brand": "",
+      "article_number": "2004819",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:06:27.782220"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Buskstöd Nyby Bruk grön",
+      "price_sek": 39.9,
+      "product_url": "https://www.granngarden.se/buskstod-nyby-bruk-gron",
+      "image_url": "https://v.imgi.no/jd8ukfr2yf__w=210_h=0",
+      "brand": "",
+      "article_number": "2003242",
+      "category_url": "",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:06:27.782324"
     },
     {
       "retailer": "granngarden",
@@ -8542,7 +8529,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.431673"
+      "scraped_at": "2026-09-05T09:06:30.679864"
     },
     {
       "retailer": "granngarden",
@@ -8555,7 +8542,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.431807"
+      "scraped_at": "2026-09-05T09:06:30.679997"
     },
     {
       "retailer": "granngarden",
@@ -8568,7 +8555,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.432033"
+      "scraped_at": "2026-09-05T09:06:30.680222"
     },
     {
       "retailer": "granngarden",
@@ -8581,7 +8568,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.432238"
+      "scraped_at": "2026-09-05T09:06:30.680359"
     },
     {
       "retailer": "granngarden",
@@ -8594,7 +8581,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.432386"
+      "scraped_at": "2026-09-05T09:06:30.680487"
     },
     {
       "retailer": "granngarden",
@@ -8607,7 +8594,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.432494"
+      "scraped_at": "2026-09-05T09:06:30.680594"
     },
     {
       "retailer": "granngarden",
@@ -8620,7 +8607,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.432597"
+      "scraped_at": "2026-09-05T09:06:30.680699"
     },
     {
       "retailer": "granngarden",
@@ -8633,7 +8620,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.432708"
+      "scraped_at": "2026-09-05T09:06:30.680809"
     },
     {
       "retailer": "granngarden",
@@ -8646,7 +8633,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.432811"
+      "scraped_at": "2026-09-05T09:06:30.680912"
     },
     {
       "retailer": "granngarden",
@@ -8659,7 +8646,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.432913"
+      "scraped_at": "2026-09-05T09:06:30.681015"
     },
     {
       "retailer": "granngarden",
@@ -8672,7 +8659,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433028"
+      "scraped_at": "2026-09-05T09:06:30.681130"
     },
     {
       "retailer": "granngarden",
@@ -8685,7 +8672,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433138"
+      "scraped_at": "2026-09-05T09:06:30.681238"
     },
     {
       "retailer": "granngarden",
@@ -8698,7 +8685,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433238"
+      "scraped_at": "2026-09-05T09:06:30.681360"
     },
     {
       "retailer": "granngarden",
@@ -8711,7 +8698,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433374"
+      "scraped_at": "2026-09-05T09:06:30.681479"
     },
     {
       "retailer": "granngarden",
@@ -8724,7 +8711,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433487"
+      "scraped_at": "2026-09-05T09:06:30.681590"
     },
     {
       "retailer": "granngarden",
@@ -8737,7 +8724,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433594"
+      "scraped_at": "2026-09-05T09:06:30.681699"
     },
     {
       "retailer": "granngarden",
@@ -8750,7 +8737,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433702"
+      "scraped_at": "2026-09-05T09:06:30.681809"
     },
     {
       "retailer": "granngarden",
@@ -8763,7 +8750,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433809"
+      "scraped_at": "2026-09-05T09:06:30.681919"
     },
     {
       "retailer": "granngarden",
@@ -8776,7 +8763,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:56.433918"
+      "scraped_at": "2026-09-05T09:06:30.682028"
     },
     {
       "retailer": "granngarden",
@@ -8789,7 +8776,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.403409"
+      "scraped_at": "2026-09-05T09:06:33.812948"
     },
     {
       "retailer": "granngarden",
@@ -8802,7 +8789,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.403552"
+      "scraped_at": "2026-09-05T09:06:33.813092"
     },
     {
       "retailer": "granngarden",
@@ -8815,7 +8802,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.403907"
+      "scraped_at": "2026-09-05T09:06:33.813479"
     },
     {
       "retailer": "granngarden",
@@ -8828,7 +8815,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404023"
+      "scraped_at": "2026-09-05T09:06:33.813600"
     },
     {
       "retailer": "granngarden",
@@ -8841,7 +8828,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404136"
+      "scraped_at": "2026-09-05T09:06:33.813721"
     },
     {
       "retailer": "granngarden",
@@ -8854,7 +8841,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404258"
+      "scraped_at": "2026-09-05T09:06:33.813847"
     },
     {
       "retailer": "granngarden",
@@ -8867,7 +8854,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404392"
+      "scraped_at": "2026-09-05T09:06:33.813962"
     },
     {
       "retailer": "granngarden",
@@ -8880,7 +8867,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404513"
+      "scraped_at": "2026-09-05T09:06:33.814083"
     },
     {
       "retailer": "granngarden",
@@ -8893,7 +8880,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404634"
+      "scraped_at": "2026-09-05T09:06:33.814202"
     },
     {
       "retailer": "granngarden",
@@ -8906,7 +8893,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404750"
+      "scraped_at": "2026-09-05T09:06:33.814318"
     },
     {
       "retailer": "granngarden",
@@ -8919,7 +8906,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404858"
+      "scraped_at": "2026-09-05T09:06:33.814452"
     },
     {
       "retailer": "granngarden",
@@ -8932,7 +8919,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.404967"
+      "scraped_at": "2026-09-05T09:06:33.814564"
     },
     {
       "retailer": "granngarden",
@@ -8945,7 +8932,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.405078"
+      "scraped_at": "2026-09-05T09:06:33.814678"
     },
     {
       "retailer": "granngarden",
@@ -8958,7 +8945,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.405187"
+      "scraped_at": "2026-09-05T09:06:33.814792"
     },
     {
       "retailer": "granngarden",
@@ -8971,7 +8958,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.405318"
+      "scraped_at": "2026-09-05T09:06:33.814904"
     },
     {
       "retailer": "granngarden",
@@ -8984,7 +8971,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.405431"
+      "scraped_at": "2026-09-05T09:06:33.815015"
     },
     {
       "retailer": "granngarden",
@@ -8997,7 +8984,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.405538"
+      "scraped_at": "2026-09-05T09:06:33.815125"
     },
     {
       "retailer": "granngarden",
@@ -9010,7 +8997,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:33:59.405647"
+      "scraped_at": "2026-09-05T09:06:33.815237"
     },
     {
       "retailer": "granngarden",
@@ -9023,7 +9010,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.223209"
+      "scraped_at": "2026-09-05T09:06:37.041841"
     },
     {
       "retailer": "granngarden",
@@ -9036,7 +9023,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.223390"
+      "scraped_at": "2026-09-05T09:06:37.041983"
     },
     {
       "retailer": "granngarden",
@@ -9049,20 +9036,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.223643"
-    },
-    {
-      "retailer": "granngarden",
-      "name": "Gräsfrö Granngården Slottspark 3,5kg",
-      "price_sek": 499.0,
-      "product_url": "https://www.granngarden.se/grasfro-granngarden-slottspark-35kg",
-      "image_url": "https://v.imgi.no/js2ubgzxpm__w=210_h=0",
-      "brand": "",
-      "article_number": "2000051",
-      "category_url": "froer",
-      "in_stock": true,
-      "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.223770"
+      "scraped_at": "2026-09-05T09:06:37.042226"
     },
     {
       "retailer": "granngarden",
@@ -9075,7 +9049,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.223895"
+      "scraped_at": "2026-09-05T09:06:37.042377"
     },
     {
       "retailer": "granngarden",
@@ -9088,7 +9062,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224022"
+      "scraped_at": "2026-09-05T09:06:37.042509"
     },
     {
       "retailer": "granngarden",
@@ -9101,7 +9075,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224138"
+      "scraped_at": "2026-09-05T09:06:37.042639"
     },
     {
       "retailer": "granngarden",
@@ -9114,7 +9088,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224246"
+      "scraped_at": "2026-09-05T09:06:37.042777"
     },
     {
       "retailer": "granngarden",
@@ -9127,7 +9101,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224389"
+      "scraped_at": "2026-09-05T09:06:37.042901"
     },
     {
       "retailer": "granngarden",
@@ -9140,7 +9114,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224499"
+      "scraped_at": "2026-09-05T09:06:37.043008"
     },
     {
       "retailer": "granngarden",
@@ -9153,7 +9127,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224616"
+      "scraped_at": "2026-09-05T09:06:37.043127"
     },
     {
       "retailer": "granngarden",
@@ -9166,7 +9140,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224725"
+      "scraped_at": "2026-09-05T09:06:37.043243"
     },
     {
       "retailer": "granngarden",
@@ -9179,7 +9153,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224843"
+      "scraped_at": "2026-09-05T09:06:37.043379"
     },
     {
       "retailer": "granngarden",
@@ -9192,7 +9166,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.224957"
+      "scraped_at": "2026-09-05T09:06:37.043500"
     },
     {
       "retailer": "granngarden",
@@ -9205,7 +9179,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.225063"
+      "scraped_at": "2026-09-05T09:06:37.043609"
     },
     {
       "retailer": "granngarden",
@@ -9218,7 +9192,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.225179"
+      "scraped_at": "2026-09-05T09:06:37.043728"
     },
     {
       "retailer": "granngarden",
@@ -9231,7 +9205,7 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.225306"
+      "scraped_at": "2026-09-05T09:06:37.043837"
     },
     {
       "retailer": "granngarden",
@@ -9244,7 +9218,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.225429"
+      "scraped_at": "2026-09-05T09:06:37.043958"
     },
     {
       "retailer": "granngarden",
@@ -9257,7 +9231,33 @@
       "category_url": "froer",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:02.225542"
+      "scraped_at": "2026-09-05T09:06:37.044070"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Gräsfrö Masterline Skugga 15kg",
+      "price_sek": 2195.0,
+      "product_url": "https://www.granngarden.se/grasfro-masterline-skugga-15kg",
+      "image_url": "https://v.imgi.no/ckpvlzun2y__w=210_h=0",
+      "brand": "",
+      "article_number": "1263303",
+      "category_url": "froer",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:06:37.044179"
+    },
+    {
+      "retailer": "granngarden",
+      "name": "Gräsfrö Granngården Slottspark 3,5kg",
+      "price_sek": 499.0,
+      "product_url": "https://www.granngarden.se/grasfro-granngarden-slottspark-35kg",
+      "image_url": "https://v.imgi.no/js2ubgzxpm__w=210_h=0",
+      "brand": "",
+      "article_number": "2000051",
+      "category_url": "froer",
+      "in_stock": true,
+      "quantity": 1,
+      "scraped_at": "2026-09-05T09:06:43.191470"
     },
     {
       "retailer": "granngarden",
@@ -9270,7 +9270,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:05.447563"
+      "scraped_at": "2026-09-05T09:06:43.191718"
     },
     {
       "retailer": "granngarden",
@@ -9283,7 +9283,7 @@
       "category_url": "tillbehor",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:05.448386"
+      "scraped_at": "2026-09-05T09:06:43.192554"
     },
     {
       "retailer": "granngarden",
@@ -9296,7 +9296,7 @@
       "category_url": "",
       "in_stock": true,
       "quantity": 1,
-      "scraped_at": "2026-09-04T09:34:05.448737"
+      "scraped_at": "2026-09-05T09:06:43.193040"
     }
   ]
 }
